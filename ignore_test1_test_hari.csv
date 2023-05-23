@@ -1,0 +1,1924 @@
+test hari,price
+price,1
+number_of_rooms,0.351053826
+is_furnished,0.009593509
+has_open_fire,-0.032129668
+has_terrace,0.092629955
+has_garden,0.058025482
+habitable_surface,0.535378638
+has_swimming_pool,0.233789877
+locality_'S-GRAVENWEZEL,0.001197349
+locality_AHIN,-0.00507785
+locality_AISEAU,-0.010793
+locality_AMBERLOUP,-0.000754387
+locality_AMOUGIES,-0.005720194
+locality_AMPSIN,-0.010791542
+locality_ANDERLECHT,-0.005324905
+locality_ANTHEIT,-0.010150936
+locality_ANTWERPEN 2000,0.006039628
+locality_ANTWERPEN 2018,0.006235643
+locality_ANTWERPEN 2020,-0.004731973
+locality_ANVAING,-0.002854355
+locality_ARC-AINIÈRE,-0.001273202
+locality_ARSIMONT,-0.004731973
+locality_AUBY-SUR-SEMOIS,-0.00359552
+locality_AUDERGHEM,-0.002730827
+locality_AUTREPPE,-0.004237863
+locality_AUVELAIS,-0.007825874
+locality_AVENNES,-0.001248497
+locality_AWIRS,-0.005181151
+locality_AYE,0.000703238
+locality_Aalbeke,0.002978018
+locality_Aalst,-0.019999659
+locality_Aalst Erembodegem,-0.004979028
+locality_Aalst Meldert,-0.002261422
+locality_Aalter,0.002354454
+locality_Aalter Bellem,-0.00189084
+locality_Aarschot,-0.005090306
+locality_Aartrijke,0.002499697
+locality_Aartselaar,-0.000347589
+locality_Achel,0.003667899
+locality_Adegem,-0.000796894
+locality_Adinkerke,0.000456183
+locality_Affligem,-0.001301476
+locality_Aiseau-Presles,-0.009819496
+locality_Alimos,-0.001164105
+locality_Alken,-0.003075371
+locality_Alleur,-0.004237863
+locality_Alsemberg,0.004567502
+locality_Alsemberg (Beersel),0.001469109
+locality_Alveringem,-0.000122757
+locality_Amarinthos,-0.004213158
+locality_Amay,-0.017622343
+locality_Amblève,0.009794865
+locality_Ampelokipoi - Pentagon,-0.005942543
+locality_Andenne,-0.017729127
+locality_Anderlecht,-0.024919002
+locality_Anderlues,-0.012158504
+locality_Angleur,-0.012721243
+locality_Anhee,-0.005126644
+locality_Ans,-0.022008449
+locality_Ans Loncin,-0.00408963
+locality_Anthisnes,-0.002113189
+locality_Antoing,-0.002120734
+locality_Antwerp,0.012944533
+locality_Antwerp 6,0.00613845
+locality_Antwerpen,-0.000741327
+locality_Antwerpen 1,0.005596867
+locality_Antwerpen Berchem,-0.004860508
+locality_Antwerpen Borgerhout,-0.005324905
+locality_Antwerpen Deurne,0.005397285
+locality_Antwerpen Hoboken,-0.004229023
+locality_Antwerpen Merksem,-0.003338042
+locality_Antwerpen Wilrijk,-0.003724703
+locality_Anvers,0.000400587
+locality_Anzegem,0.000797449
+locality_Appels,0.001848685
+locality_Appelterre-Eichem,-0.003774798
+locality_Ardooie,-0.00597482
+locality_Arendonk,-0.005812896
+locality_Argenteau,-0.001792018
+locality_Arlon,-0.002815717
+locality_Arlon -Sterpenich,0.007373725
+locality_Arlon Bonnert,-0.001248497
+locality_Arquennes,0.004804353
+locality_Arquennes - Seneffe,0.002457305
+locality_As,-0.001866134
+locality_Asper,-0.002866346
+locality_Asse,-0.004744418
+locality_Asse Zellik,0.002333802
+locality_Assebroek,-0.00201327
+locality_Assenede,-0.009587497
+locality_Assesse,0.001506471
+locality_Astene,0.014686556
+locality_Ath,-0.007995061
+locality_Ath Ormeignies,-0.004460213
+locality_Ath Ostiches,0.00443377
+locality_Athus,-0.010325816
+locality_Athènes,-0.003300373
+locality_Attert,0.007904799
+locality_Aubange,-0.005491564
+locality_Aubange - Halanzy,-0.006189598
+locality_Aubange Athus,-0.005942543
+locality_Aubange Rachecourt,-0.001248497
+locality_Aublain,-0.011549049
+locality_Auderghem,0.018410203
+locality_Auvelais,-0.004040219
+locality_Avekapelle,-0.003842575
+locality_Avelgem,-0.013540647
+locality_Averbode,-0.004162513
+locality_Awans,-0.003797841
+locality_Awans Hognoul,0.00344555
+locality_Awans Othée,-0.006869
+locality_Aywaille,-0.011208303
+locality_BAASRODE,-0.005267578
+locality_BACHTE-MARIA-LEERNE,0.002086747
+locality_BAILLAMONT,0.000851471
+locality_BAILLONVILLE,-0.002977882
+locality_BALÂTRE,-0.002730827
+locality_BAMBRUGGE,0.000822877
+locality_BARRY,-0.006214304
+locality_BARVAUX,-0.004979028
+locality_BAS-OHA,-0.002755533
+locality_BASECLES,-0.005819016
+locality_BASTOGNE,-0.006980174
+locality_BATTINCOURT,0.000900882
+locality_BAÑOS Y MENDIGO,-0.00507785
+locality_BEFFE,-0.005967249
+locality_BELLEGEM,-0.006461359
+locality_BELLEM,-0.004336685
+locality_BELLEVAUX,-0.004213158
+locality_BERCHEM-SAINTE-AGATHE,-0.006633952
+locality_BERENDRECHT,-0.000532037
+locality_BEUZET,-0.0026073
+locality_BEVERE,-0.0026073
+locality_BEVEREN,0.000480889
+locality_BEVEREN- LEIE,-2.56E-05
+locality_BIERGHES,-0.001495552
+locality_BIERSET,-0.003743753
+locality_BLAASVELD,-0.004943514
+locality_BOIS-DE-VILLERS,-0.003249643
+locality_BONCELLES,-0.0047706
+locality_BONLEZ,0.007274903
+locality_BORSU,-0.002508478
+locality_BOSSIÈRE,0.001222054
+locality_BOSSUT-GOTTECHAIN,-0.001248497
+locality_BOUFFIOULX,-0.001248497
+locality_BRAINE-LE-CHÂTEAU,-0.002854355
+locality_BRASMENIL,0.000727944
+locality_BREENDONK,-0.000408058
+locality_BRESSOUX,-0.00857911
+locality_BROECHEM,0.000851471
+locality_BRUSSEGEM,0.003692605
+locality_BRUXELLES,0.045263643
+locality_BURCHT,0.009380089
+locality_BUZET,0.000156004
+locality_Baasrode,-0.004336685
+locality_Bachte-Maria-Leerne,-0.002519368
+locality_Baelen,-0.002113189
+locality_Balegem,-0.001273202
+locality_Balen,-0.006399933
+locality_BalÃtre,-0.003471992
+locality_Bambrugge,-0.003348465
+locality_Bassenge,-0.0026073
+locality_Bassenge Roclengesur-Geer,0.004310242
+locality_Bassevelde,0.002136681
+locality_Bassilly,-0.000843141
+locality_Bastogne,-0.010512889
+locality_Bazel,-0.003621031
+locality_Beaufays,-0.001866134
+locality_Beaumont,-0.011343115
+locality_Beauraing,-0.007012767
+locality_Beauraing Baronville,-0.007654693
+locality_Beauvechain,0.000604416
+locality_Beernem,0.001905002
+locality_Beerse,0.002481417
+locality_Beersel,0.009660667
+locality_Beerzel,-0.004027866
+locality_Begijnendijk,-0.000650563
+locality_Bekegem,-0.003002588
+locality_Bekkevoort,0.001389336
+locality_Belgrade,0.000234867
+locality_Bellegem,-0.000403044
+locality_Bellevaux-ligneuville,-0.001619079
+locality_Beloeil,-0.007402048
+locality_Belsele,-0.00408963
+locality_Berchem,-0.000377652
+locality_Berchem Ste Agathe,-0.002236717
+locality_Berchem-Sainte-Agathe,-0.003952551
+locality_Berchem-Ste-Agathe,-0.001495552
+locality_Berendrecht,-0.003547685
+locality_Beringen,-0.002378656
+locality_Berlaar,-0.0012089
+locality_Berlare,-0.006671313
+locality_Berlare Uitbergen,-0.003249643
+locality_Berloz,-0.005015663
+locality_Bernissart,-0.007705599
+locality_Bertem,0.001888492
+locality_Bertogne,-0.003966103
+locality_Bertrix,-0.013634308
+locality_Besonrieux,-0.007202524
+locality_Bever,0.001047732
+locality_Beveren,-0.005633159
+locality_Beveren Melsele,-0.002150066
+locality_Beveren aan den IJzer,-0.004336685
+locality_Beveren leie,-0.004472565
+locality_Beveren-Leie,0.004756482
+locality_Beveren-Waas,-0.005172416
+locality_Beverlo,-0.000383804
+locality_Beyne-Heusay,-0.012997128
+locality_Beyne-Heusay Queuedu-Bois,-0.003002588
+locality_Bierbeek,0.002086747
+locality_Bierbeek Korbeek-Lo,0.00522237
+locality_Bierges,-3.79E-05
+locality_Bilzen,0.010875581
+locality_Binche,-0.011209533
+locality_Bissegem,-0.004060171
+locality_Bizet,-0.009033336
+locality_Bièvre Graide,0.002432624
+locality_Blaasveld,-0.003918095
+locality_Blaasveld (Willebroek),0.002432624
+locality_Blaimont,-0.011828572
+locality_Blandain,-0.004543488
+locality_Blankenberge,-0.03218096
+locality_Blanmont (Chastre),0.002432624
+locality_Blaton,-0.001248497
+locality_Blégny,0.003692605
+locality_Bocholt,0.000295765
+locality_Boechout,0.000525432
+locality_Boekhoute,-0.005473138
+locality_Boezinge,-0.006133278
+locality_Bois-de-Villers,0.001222029
+locality_Bolland,-0.005967249
+locality_Bomal-sur-Ourthe,0.004557298
+locality_Boncelles,-0.002235408
+locality_Boneffe,-0.000754387
+locality_Bonheiden,0.0212308
+locality_Bonlez,0.001098527
+locality_Bonneville,-0.00310141
+locality_Booischot,0.003050262
+locality_Booischot (Heist-op-den-Berg),-0.001248497
+locality_Boom,-0.013422049
+locality_Boortmeerbeek,0.011752881
+locality_Borgerhout,-0.016016697
+locality_Borgloon,-0.00625414
+locality_Borlon,-0.001674667
+locality_Bornem,-0.003175979
+locality_Bornem Mariekerke,-0.001124969
+locality_Bornem Weert,0.003149084
+locality_Borsbeek,-0.005190603
+locality_Borsbeke,-0.004237863
+locality_Bouffioulx,-0.002508478
+locality_Bouge,-0.003743753
+locality_Bouillon,-0.010246185
+locality_Bouillon - Bellevaux,-0.002755533
+locality_Boussu,-0.011589656
+locality_Boussu Hornu,-0.00975835
+locality_Bousval,-0.001248497
+locality_Boutersem,0.020316646
+locality_Braine l'Alleud,-0.00746382
+locality_Braine-L'Alleud,-0.001156569
+locality_Braine-l'Alleud,-0.000480039
+locality_Braine-l'Alleud Lillois-Witterzée,0.003370526
+locality_Braine-l'Alleud Ophain-Bois-Seigneur-Isaac,0.005545518
+locality_Braine-le-Chateau,0.001985263
+locality_Braine-le-ChÃteau,-0.001663381
+locality_Braine-le-ChÃteau Wauthier-Braine,-0.000136749
+locality_Braine-le-Château,-0.000136749
+locality_Braine-le-Comte,-0.017381686
+locality_Braine-le-Comte Hennuyères,-0.004648309
+locality_Braives,-0.000682289
+locality_Braives Fallais,-0.000877914
+locality_Brakel,-0.009153109
+locality_Brasschaat,0.010607241
+locality_Brasschaat (Brasschaat),-0.004349038
+locality_Brecht,0.003911115
+locality_Bredene,-0.00462899
+locality_Bree,0.002339782
+locality_Brugelette,-0.004473607
+locality_Brugge,0.00274364
+locality_Brugge Sint-Kruis,-3.79E-05
+locality_Brugge Zeebrugge,-0.003175526
+locality_Bruly,-0.00557196
+locality_Brunehaut Guignies,-0.005819016
+locality_Brussegem,0.003914621
+locality_Brussel,0.008127485
+locality_Brussels,-0.005569151
+locality_Brussels City,0.006482214
+locality_Brustem,-0.002854355
+locality_Bruxelles,0.059056984
+locality_Bruxelles  1,-0.001591019
+locality_Bruxelles  2,0.003014267
+locality_Bruxelles  5,0.002407918
+locality_Bruxelles ville,0.023561803
+locality_Buggenhout,-0.003483371
+locality_Buizingen,0.001724895
+locality_Buizingen (Halle),-0.003002588
+locality_Burcht,-0.000630859
+locality_Butgenbach,-0.00089221
+locality_CARLSBOURG,0.030868663
+locality_CHAPON-SERAING,-0.0026073
+locality_CHAUMONT,0.004436209
+locality_CHENEE,-0.001544963
+locality_CHÂTELINEAU,-0.010903522
+locality_CLABECQ,-0.001001442
+locality_CLAVIER-STATION,-0.002665438
+locality_CLERMONT,-6.26E-05
+locality_CLERMONT-SOUS-HUY,-0.005473138
+locality_COMBLAIN-FAIRON,-0.009277787
+locality_COMBLAIN-LA-TOUR,-0.00591436
+locality_CORROY-LE-GRAND,0.003692605
+locality_COURT-SAINT-ETIENNE,0.003971307
+locality_COURT-SAINT-ÉTIENNE,-0.003719047
+locality_COUTURE-SAINT-GERMAIN,0.033709796
+locality_Calonne,-0.00557196
+locality_Carnières,-0.010710478
+locality_Casteau,0.004918714
+locality_Celles,-0.003774798
+locality_Cerfontaine,-0.000312468
+locality_Chalandri,-0.005900095
+locality_Chalkida,-0.002977882
+locality_Chapelle-lez-Herlaimont,-0.009947063
+locality_Chapelle-lez-Herlaimont Piéton,-0.006560181
+locality_Chapois,-0.000136749
+locality_Charleroi,-0.035912815
+locality_Charleroi Gilly,-0.007449579
+locality_Charleroi Gosselies,-0.009732145
+locality_Charleroi Jumet,-0.01515674
+locality_Charleroi Marcinelle,-0.010808311
+locality_Charleroi Mont-sur-Marchienne,-0.006517623
+locality_Charleroi Montignies-sur-Sambre,-0.005003468
+locality_Charleroi Ransart,-0.007054291
+locality_Charleroi-Marchienne-au-Pont,-0.004954323
+locality_Chassepierre,-0.005497844
+locality_Chastre,0.000989666
+locality_Chatelet,-0.006214304
+locality_Chaudfontaine,-0.013665613
+locality_Chaudfontaine Vaux-sous-Chèvremont,-0.01076447
+locality_Chaumont-Gistoux,0.009261216
+locality_Cheratte,-0.012973901
+locality_Chimay,-0.005201378
+locality_Chiny,-0.003990808
+locality_ChÃtelet,-0.007943689
+locality_ChÃtelet Bouffioulx,-0.007180289
+locality_ChÃtelet ChÃtelineau,-0.011509105
+locality_ChÃtelineau,-0.004731973
+locality_Châtelet,-0.012209161
+locality_Chênée,-0.009609003
+locality_Cierreux (Gouvy),-0.006560181
+locality_Ciney,-0.004677894
+locality_Clavier,-0.005258168
+locality_Cognelée,-0.000630859
+locality_Colfontaine,-0.014050056
+locality_Colfontaine PÃturages,-0.004954323
+locality_Comblain-au-Pont,-0.004202556
+locality_Comblain-la-Tour,-0.007449579
+locality_Comblainau-Pont Poulseur,-0.004954323
+locality_Corbion,-0.006066071
+locality_Coronmeuse,-0.003966103
+locality_Corroy le Grand,0.027039309
+locality_Cortil-Noirmont,-0.003743753
+locality_Couillet,-0.01134435
+locality_Courcelles,-0.019516361
+locality_Courcelles Trazegnies,-0.00884291
+locality_Court-Saint-Etienne,-0.002319572
+locality_Court-St.-Etienne,-0.001905886
+locality_Court-St.-Étienne,-0.006214304
+locality_Couthuin,-0.005189886
+locality_Couture-Saint-Germain,0.001839692
+locality_Couvin,-0.008194069
+locality_Couvin Brûlyde-Pesche,-0.001574659
+locality_Crisnee,-0.004301083
+locality_Crisnée,-0.006587504
+locality_Cuesmes,-0.005967249
+locality_Cureghem (Anderlecht),-0.000877914
+locality_Céroux-Mousty,-0.00396697
+locality_DE KLINGE,0.001536152
+locality_DENDERWINDEKE,0.001839692
+locality_DION,-0.000136749
+locality_DION-LE-MONT,0.002333802
+locality_DION-LE-VAL,0.00613845
+locality_DUDZELE,0.000851471
+locality_Dadizele,-0.000322468
+locality_Daknam,-0.00408963
+locality_Dalhem,-0.006657385
+locality_Damme,0.018450313
+locality_Damme Lapscheure,0.012216005
+locality_Dave,-0.001591019
+locality_De Haan,-0.012970074
+locality_De Klijte,-0.002755533
+locality_De Panne,-0.01610767
+locality_De Pinte,0.015264514
+locality_Deerlijk,0.001477823
+locality_Deinze,-0.008485423
+locality_Deinze Astene,0.006163156
+locality_Deinze Bachte-Maria-Leerne,0.005100078
+locality_Denderhoutem,-0.000532037
+locality_Denderleeuw,-0.006847898
+locality_Dendermonde,-0.003710347
+locality_Dendermonde Baasrode,-0.004940058
+locality_Dendermonde Grembergen,-0.00507785
+locality_Dentergem,0.007668201
+locality_Denée,0.001337281
+locality_Dessel,0.000233455
+locality_Desselgem,0.002878092
+locality_Destelbergen,-0.002635274
+locality_Deurne,-0.024184281
+locality_Deurne (Antwerpen),-0.007198962
+locality_Deux-Acren,-0.004954323
+locality_Diegem,0.001274098
+locality_Diepenbeek,-0.002492511
+locality_Diest,-0.009871325
+locality_Dikkelvenne,-0.005967249
+locality_Diksmuide,-0.010978175
+locality_Dilbeek,-0.001723223
+locality_Dilbeek Groot-Bijgaarden,0.000662885
+locality_Dilbeek Itterbeek,0.015699481
+locality_Dilbeek Schepdaal,-0.002018147
+locality_Dilsen-Stokkem,-0.008294693
+locality_Dinant,-0.016886261
+locality_Dionysos,0.017280634
+locality_Dison,-0.028666251
+locality_Dison Andrimont,-0.010780359
+locality_Dohan,0.001222054
+locality_Doische,-0.004731973
+locality_Donceel,0.000604416
+locality_Dottignies,0.000924694
+locality_Dour,-0.00829662
+locality_Drogenbos,0.002459213
+locality_Drongen,0.01840898
+locality_Dudzele,0.029156581
+locality_Duffel,0.001693379
+locality_Duinbergen,0.004310242
+locality_Durbuy,-0.005233324
+locality_Dworp,0.008263219
+locality_EBEN-EMAEL,0.003667899
+locality_ECAUSSINNES-D'ENGHIEN,-0.005448433
+locality_EEKLO,-0.00557196
+locality_EERNEGEM,-0.007626163
+locality_EHEIN,-0.00557196
+locality_EINDHOUT,-0.0026073
+locality_EINE,-0.004707268
+locality_EKE,0.003213293
+locality_ELLIGNIES-SAINTE-ANNE,-0.002977882
+locality_ELLIKOM,-0.002755533
+locality_ELVERSELE,0.007373725
+locality_EMBLEM,-0.002508478
+locality_ENAME,-0.005819016
+locality_ENGIS,-0.01089236
+locality_ENINES,-0.007424874
+locality_ERPE-MERE,0.000209128
+locality_EUGIES,0.00465612
+locality_Ecaussinnes,-0.004537784
+locality_Edegem,0.009527332
+locality_Edingen,0.003569077
+locality_Eeklo,-0.014633862
+locality_Eernegem,-0.007597633
+locality_Eghezee,-0.002483772
+locality_Eghezée,0.000851584
+locality_Eine,-0.006708414
+locality_Ekali,0.008633706
+locality_Ekeren,-0.004717215
+locality_Elewijt,-0.002496125
+locality_Ellezelles,-0.000132075
+locality_Ellignies-Sainte-Anne,0.005469499
+locality_Embourg,-1.74E-06
+locality_Enghien,-0.001515382
+locality_Engis,-0.011534609
+locality_Erembodegem,-0.004077792
+locality_Eretria,-0.008289566
+locality_Erpe,0.002333802
+locality_Erpe-Mere,0.004153234
+locality_Erpent,-0.001742607
+locality_Erps-Kwerps,0.002333802
+locality_Ertvelde,-0.004523463
+locality_Esneux,-0.018302214
+locality_Esneux Tilff,-0.005596666
+locality_Esplechin,-0.006683708
+locality_Essen,0.011508598
+locality_Estaimbourg,-0.003249643
+locality_Estaimpuis,-0.005967249
+locality_Estinnes,-0.00458374
+locality_Etalle,-0.004624972
+locality_Etterbeek,0.04382256
+locality_Eupen,-0.006952952
+locality_Everberg,0.000357361
+locality_Evere,-0.013057432
+locality_Evergem,-0.004872331
+locality_Evergem Belzele,-0.000556742
+locality_Evergem Sleidinge,-0.007554822
+locality_FAIMES,-0.007671929
+locality_FALISOLLE,-0.000630859
+locality_FALMIGNOUL,0.009745454
+locality_FAMILLEUREUX,-0.005448433
+locality_FANZEL,-0.005277237
+locality_FELUY,-0.00552182
+locality_FERRIÈRES,0.000851471
+locality_FIZE-FONTAINE,-0.007740539
+locality_FLASSIGNY,-0.002533183
+locality_FLEMALLE,-0.00408963
+locality_FLÉMALLE,-0.008119596
+locality_FLÉMALLE-HAUTE,-0.00146367
+locality_FRASNES-LEZ-BUISSENAL,-0.004560958
+locality_Faimes,3.78E-05
+locality_Falisolle,-0.001273202
+locality_Farciennes,-0.011540786
+locality_Faulx-les-tombes,0.008633706
+locality_Fauvillers,-0.000383804
+locality_Ferrieres,-0.001297908
+locality_Ferrières,-0.001273202
+locality_Ferrières Werbomont,-0.003546109
+locality_Fexhe-le-Haut-Clocher,-0.003990808
+locality_Flavion,-0.004979028
+locality_Flemalle,-0.012582294
+locality_Fleron,-0.009794448
+locality_Fleurus,-0.013141098
+locality_Fleurus Lambusart,-0.005448433
+locality_Fleurus Saint-Amand,-0.006436653
+locality_Flobecq,-0.003338042
+locality_Floreffe,-0.007478486
+locality_Florenville,-0.005457879
+locality_Florenville Villers-devant-Orval,-0.007449579
+locality_Flémalle,-0.011752467
+locality_Flémalle Awirs,-0.004336685
+locality_Flémalle-Grande,-0.003743753
+locality_Fléron,-0.00319828
+locality_Focant,-0.007671929
+locality_Folx-les-caves,-0.007424874
+locality_Fontaine l'Evêque,-0.00557196
+locality_Fontaine-Valmont,-0.000309687
+locality_Fontaine-l'Eveque,-0.011404887
+locality_Fontaine-l'Evêque,-0.006930763
+locality_Fontainel'Evêque,-0.005226083
+locality_Forchies-la-Marche,-0.009751653
+locality_Forest,0.012914713
+locality_Forges,-0.011723751
+locality_Fosses-la-Ville,-0.011169852
+locality_Frameries,-0.018637258
+locality_Francorchamps,-0.005801344
+locality_Frasnes-lez-Anvaing,-0.001834561
+locality_Frasnes-lez-Gosselies,-0.00557196
+locality_Frasnes-lez-gosselies,-0.006560181
+locality_Freylange (Arlon),-0.004979028
+locality_Froidchapelle,0.014686556
+locality_Froidmont,-0.006709796
+locality_Froyennes,-0.004213158
+locality_GELRODE,-0.001579217
+locality_GENT CENTRUM,0.014306888
+locality_GENTBRUGGE,0.001658443
+locality_GENTINNES,-0.000284982
+locality_GIERLE,0.010338386
+locality_GIJZENZELE,0.011104257
+locality_GISTOUX,0.011074896
+locality_GLONS,-0.011654855
+locality_GODINNE,0.033215686
+locality_GOZEE,-0.002792591
+locality_GRAND-MANIL,-0.007054291
+locality_GRANDHAN,-0.003348465
+locality_GREMBERGEN,-0.002486243
+locality_GRIVEGNEE,-0.006080868
+locality_GROYNNE,-0.006955469
+locality_GRÂCE-BERLEUR,-0.006708414
+locality_GRÂCE-HOLLOGNE,-0.006884382
+locality_Gages,-0.006189598
+locality_Galmaarden,-0.006616164
+locality_Galmaarden Tollembeek,0.001197349
+locality_Ganshoren,-0.01930538
+locality_Gavere,-0.003576202
+locality_Gedinne Houdremont,-3.79E-05
+locality_Geel,-0.00207702
+locality_Geer Lens-Saint-Servais,0.001197349
+locality_Geetbets,-0.005975925
+locality_Gelbressée,-0.0026073
+locality_Geluwe,-0.006930763
+locality_Gembloux,-0.013086829
+locality_Gembloux Mazy,-0.001989662
+locality_Genappe,-0.010046952
+locality_Genk,-0.00489594
+locality_Gent,0.006777603
+locality_Gent (9000),-0.003061354
+locality_Gent Desteldonk,0.006039628
+locality_Gent Gentbrugge,0.007593773
+locality_Gent Mariakerke,0.001789657
+locality_Gent Sint-Amandsberg,-0.002352697
+locality_Gent Sint-Denijs-Westrem,5.84E-05
+locality_Gent Wondelgem,0.001098527
+locality_Gentbrugge,0.000513055
+locality_Genval,0.03902148
+locality_Geraardsbergen,-0.017699914
+locality_Geraardsbergen Smeerebbe-Vloerzegem,-0.004979028
+locality_Gerakas,-0.002236717
+locality_Gerpinnes,-0.001190993
+locality_Gesves,-0.001608489
+locality_Ghislenghien,0.001222054
+locality_Ghlin,-0.00557196
+locality_Gierle,-0.001767312
+locality_Gijzegem,-0.004071791
+locality_Gijzenzele,-0.0026073
+locality_Gilly,-0.016401025
+locality_Gilly (Charleroi),-0.006683708
+locality_Gingelom,-0.003906292
+locality_Gistel,-0.007006356
+locality_Gistel Snaaskerke,-0.003990808
+locality_Gits,0.006780793
+locality_Glabbeek,0.00086153
+locality_Glabbeek Attenrode,0.013821863
+locality_Glyfada,0.04030531
+locality_Godarville,-0.008771283
+locality_Goetsenhoven,-0.002560617
+locality_Gooik,0.002817846
+locality_Gosselies,-0.011187375
+locality_Goudi,-0.003719047
+locality_Gouvy,-0.008841163
+locality_Gouy-lez-Piéton,-0.01291008
+locality_Gozée,-0.000877914
+locality_Grace-Hollogne,-0.012960384
+locality_Grand-Leez,0.002432624
+locality_Grand-Manil,0.000851471
+locality_Grandglise,-0.005201378
+locality_Grez-Doiceau,0.037914717
+locality_Grimbergen,0.005980057
+locality_Grimbergen Strombeek-Bever,0.001197349
+locality_Grivegnee (Liege),-0.00458374
+locality_Grivegnée,-0.011383523
+locality_Grobbendonk,-0.00390299
+locality_Groot-Bijgaarden,0.002587599
+locality_Grote Brogel,0.00564434
+locality_GrÃce-Hollogne,-0.00062577
+locality_GrÃce-Hollogne Horion-Hozémont,-0.001599754
+locality_GrÃce-hollogne,-0.007795456
+locality_Grâce-Hollogne,-0.007340863
+locality_Gullegem,-0.006798792
+locality_HAASDONK,0.000357361
+locality_HABAY-LA-NEUVE,-0.003719047
+locality_HACHY,-0.004213158
+locality_HAINE-SAINT-PIERRE,-0.00557196
+locality_HAKENDOVER,-0.0026073
+locality_HAMPTEAU,-0.001001442
+locality_HANEFFE,-0.002977882
+locality_HARCHIES,-0.006482683
+locality_HARZÉ,-0.008404408
+locality_HASTIÈRE-LAVAUX,-0.014876609
+locality_HAUT-FAYS,-0.006482683
+locality_HELLEBECQ,-0.00310141
+locality_HERMALLE-SOUS-HUY,-0.004336685
+locality_HERMEE,0.002185569
+locality_HERSELT,-0.002045245
+locality_HEURE-LE-ROMAIN,-0.005259767
+locality_HEUSDEN,0.000383117
+locality_HEVILLERS,0.004804353
+locality_HEYD,-0.002730827
+locality_HINGEON,-0.001101853
+locality_HOEVENEN,-0.003554727
+locality_HOGNE,-0.00630798
+locality_HOLLAIN,-0.003471992
+locality_HOLLOGNE-AUX-PIERRES,-0.00931286
+locality_HORION-HOZÉMONT,-0.003738943
+locality_HOUTHALEN,-0.001989662
+locality_HUCCORGNE,0.000456183
+locality_HUISSIGNIES,-0.003471992
+locality_HUY,-0.007696634
+locality_HYON,-0.005324905
+locality_Haacht,0.001912116
+locality_Haaltert,-0.005450576
+locality_Haaltert Denderhoutem,-0.002202477
+locality_Haaltert Kerksken,-0.006395332
+locality_Habay,0.000771083
+locality_Habay Marbehan,0.000974999
+locality_Habergy,-0.005871225
+locality_Haccourt,-0.007512851
+locality_Hacquegnies,-0.002113189
+locality_Halanzy,-0.007537947
+locality_Halen,0.00341925
+locality_Halle,-0.002627321
+locality_Halle Lembeek,-0.001260116
+locality_Ham,-0.002693608
+locality_Ham-sur-Heure,-0.001313604
+locality_Hamme,-0.004504788
+locality_Hamoir,-0.00630798
+locality_Hamois,-0.001837343
+locality_Hamont-Achel,0.009485105
+locality_Handzame,-0.002755533
+locality_Hanneche,-0.002755533
+locality_Hannut,-0.009100847
+locality_Hannut Blehen,-3.79E-05
+locality_Hannut Crehen,-0.00310141
+locality_Hannut Grand-Hallet,-0.002848875
+locality_Hannut Poucet,-0.003348465
+locality_Hannut Thisnes,-0.002755533
+locality_Hanzinne,-0.001989662
+locality_Harelbeke,-0.011468905
+locality_Harmignies,-0.002977882
+locality_Harzé,-0.004707268
+locality_Hasselt,-0.007965482
+locality_Hastière Agimont,-0.006313126
+locality_Hastière Blaimont,-0.005621372
+locality_Hastière-par-delà,0.009868982
+locality_Havelange,-0.006134243
+locality_Havre,-0.005386669
+locality_Hechtel-Eksel,-0.004997713
+locality_Heer,-0.004843889
+locality_Heers,-0.008810255
+locality_Heestert,-0.001531009
+locality_Heinsch,-0.004707268
+locality_Heist-aan-Zee,0.013191566
+locality_Heist-op-den-Berg,0.001210015
+locality_Heist-op-den-Berg Itegem,0.019627657
+locality_Heldergem,-0.00668359
+locality_Hemiksem,-0.006738979
+locality_Hensies,-0.001248497
+locality_Heppenbach,-0.0026073
+locality_Heppignies,-0.006313126
+locality_Herdersem,-0.000387263
+locality_Herent,-7.85E-05
+locality_Herentals,-0.012926888
+locality_Herenthout,0.000489171
+locality_Herk-de-Stad,-0.005957155
+locality_Hermalle-sous-Argenteau,-0.000655565
+locality_Hermalle-sous-Argenteau (limite Visé),0.003692605
+locality_Herne,0.010148081
+locality_Herseaux,-0.006461359
+locality_Herselt,-0.008665945
+locality_Herstal,-0.02757155
+locality_Herstal Vottem,-0.006214304
+locality_Herve,-0.004823011
+locality_Herzele,-0.00670025
+locality_Herzele (Ressegem),0.000826766
+locality_Heule,-0.008200918
+locality_Heusden,0.00487692
+locality_Heusden-Zolder,0.000998972
+locality_Heuvelland,-0.005451939
+locality_Hever,0.007274903
+locality_Heverlee,0.001581732
+locality_Hillegem,-0.005226083
+locality_Hoboken,-0.01798262
+locality_Hoegaarden,-0.004087881
+locality_Hoegaarden Meldert,-0.004484918
+locality_Hoeilaart,0.003740623
+locality_Hoeselt,-0.00110746
+locality_Hoevenen,-0.00605701
+locality_Hofstade,-0.003023578
+locality_Holsbeek,0.012663706
+locality_Hombeek,0.003506924
+locality_Honnelles,-0.002454415
+locality_Hooglede,-0.00673654
+locality_Horebeke,-0.001866134
+locality_Horion,0.003667899
+locality_Horion-Hozémont,0.003667899
+locality_Hornu,-0.011149626
+locality_Hotton,-0.003139811
+locality_Houdeng-Aimeries,-0.007618248
+locality_Houdeng-Goegnies,-0.010771624
+locality_Houffalize,-0.003213892
+locality_Houmont,-0.004707268
+locality_Housse,-0.001248497
+locality_Houtain-Saint-Simeon,-0.006313126
+locality_Houtain-le-Val,-0.005364588
+locality_Houtem,-0.0026073
+locality_Houthalen-Helchteren,-0.006412802
+locality_Houthulst,-0.010936654
+locality_Houyet,-0.006168219
+locality_Hove,-0.001017614
+locality_Huccorgne,-0.005473138
+locality_Huizingen,-0.003683361
+locality_Huldenberg,0.015275584
+locality_Hulshout,-0.006478803
+locality_Hulste,-0.001451257
+locality_Humbeek,0.016662996
+locality_Huy,-0.033594546
+locality_Hyon,-0.006313126
+locality_Hélécine,-0.003093459
+locality_Hérinnes,-0.001767312
+locality_Héron,-0.00170665
+locality_ITEGEM,0.003265704
+locality_IVOZ-RAMET,-0.009452087
+locality_Ichtegem,0.000931502
+locality_Iddergem,-0.004036851
+locality_Idegem,-0.003235164
+locality_Ieper,-0.016477809
+locality_Ingelmunster,-0.007535524
+locality_Irchonwelz,-0.00507785
+locality_Itterbeek,0.003667899
+locality_Ittre,-0.003672712
+locality_Ixelles,0.185865201
+locality_Izegem,-0.020446698
+locality_JEHAY,-0.0026073
+locality_JEMELLE,-0.008928515
+locality_JEMEPPE,-0.003978455
+locality_JEUK,-0.002508478
+locality_JODOIGNE-SOUVERAINE,-0.000630859
+locality_JUPILLE-SUR-MEUSE,-0.006604974
+locality_Jabbeke,-0.003746369
+locality_Jalhay,0.000376519
+locality_Jambes,-0.005653969
+locality_Jambes (Namur),-0.0062381
+locality_Jauchelette,0.00443377
+locality_Jemappes,-0.011713748
+locality_Jemelle,-0.008159825
+locality_Jemeppe,-0.006560181
+locality_Jemeppe (-sur-meuse),-0.005720194
+locality_Jemeppe-sur-Sambre,-0.006295289
+locality_Jemeppe-sur-Sambre BalÃtre,-0.004213158
+locality_Jette,-0.025692809
+locality_Jodoigne,-0.013898529
+locality_Jumet,-0.017363213
+locality_Jumet (Charleroi),-0.00704173
+locality_Jupille,-0.001451257
+locality_Jupille-sur-Meuse,-0.007111611
+locality_Juprelle,-0.005120005
+locality_Juprelle Lantin,-0.005473138
+locality_Jurbise,-0.010293724
+locality_KALLO,-0.00090262
+locality_KANNE,-6.26E-05
+locality_KESSEL LO,0.00295144
+locality_KLEINE HORENDONK,-0.006807236
+locality_KNOKKE,0.017888284
+locality_KOEKELBERG,-0.003966103
+locality_KONINGSHOOIKT,-0.002014367
+locality_KORBEEK-LO,-0.0026073
+locality_KORTRIJK,-0.001372024
+locality_KUMTICH,-0.0026073
+locality_KWAADMECHELEN,-0.001834561
+locality_Kain (Tournai),-0.002039073
+locality_Kalken,-0.001372024
+locality_Kallo,-0.000750419
+locality_Kalmthout,-0.000859632
+locality_Kampenhout,0.013671527
+locality_Kapelle-op-den-Bos,-0.003769092
+locality_Kapellen,0.038159498
+locality_Kaprijke,-0.003719047
+locality_Kasterlee,-0.001051865
+locality_Keerbergen,-0.000320375
+locality_Kelmis Neu-Moresnet,-0.00310141
+locality_Kerkhove,0.00192369
+locality_Kerksken,0.000400587
+locality_Kermt,-0.004979028
+locality_Kessel,0.001274098
+locality_Kessel-Lo,-0.001101283
+locality_Kester,-0.003687446
+locality_Kieldrecht,-0.004074108
+locality_Kifissia,-0.006080123
+locality_Kinrooi,-0.002849251
+locality_Kluisbergen,-0.007790624
+locality_Kluizen,-0.000630859
+locality_Knesselare,-0.003139766
+locality_Knokke,0.107608188
+locality_Knokke centrum,0.007738082
+locality_Knokke-Heist,0.28248821
+locality_Knokke-Heist Knokke,0.140406791
+locality_Knokke-Zoute,0.14837097
+locality_Koekelare,-0.000814709
+locality_Koekelberg,-0.015347795
+locality_Koersel,-0.00801977
+locality_Koewacht,0.001963219
+locality_Koksijde,-0.004713712
+locality_Kolonaki - Lykavittos,0.001222054
+locality_Komen-Waasten,0.001938514
+locality_Koningshooikt,-0.001273202
+locality_Kontich,0.003753192
+locality_Kortemark,-0.01040106
+locality_Kortenaken,-0.001134331
+locality_Kortenberg,0.003869279
+locality_Kortenberg Erps-Kwerps,0.000225885
+locality_Kortenberg Meerbeek,-0.001026147
+locality_Kortessem,-0.006099805
+locality_Kortrijk,-0.000330244
+locality_Kraainem,0.062745865
+locality_Krombeke,-0.005720194
+locality_Kruibeke,-0.004721134
+locality_Kruisem,-0.004786156
+locality_Kruishoutem,0.002629404
+locality_Kuringen,-0.001866134
+locality_Kuurne,-0.015251017
+locality_LA GLACERIE,-0.006683708
+locality_LA HESTRE,-0.005571985
+locality_LA LOUVIÈRE,-0.01506415
+locality_LADEUZE,-0.005448433
+locality_LAEKEN (BRU.),-0.006412802
+locality_LAKEN (BRU.),-0.005324905
+locality_LAMBUSART,-0.002508478
+locality_LANDEGEM,-0.001818132
+locality_LAVOIR,-0.003002588
+locality_LE ROEULX,0.004063187
+locality_LEEST,0.002333802
+locality_LEEUW-SAINT-PIERRE,-0.003719047
+locality_LEIGNON,-0.005294707
+locality_LES BONS VILLERS,-0.00557196
+locality_LES CAHOTTES,-0.00422551
+locality_LES HAYONS,0.003692605
+locality_LEVAL-TRAHEGNIES,-0.009103217
+locality_LIBRAMONT,-0.004460213
+locality_LICHTAART,0.006410345
+locality_LIEGE,-0.012037444
+locality_LIEZELE,-0.00241212
+locality_LIGNIÈRES,-0.003743753
+locality_LIGNY,-0.002977882
+locality_LIMAL,-0.002988637
+locality_LIPPELO,-0.002014367
+locality_LOKSBERGEN,-0.000532037
+locality_LONGLIER,-0.004707268
+locality_LOVENDEGEM,0.008139596
+locality_LOYERS,0.001839692
+locality_La Calamine,-0.005226083
+locality_La Croix-Valmer,0.082750229
+locality_La Hulpe,-0.001837333
+locality_La Louviere,-0.025946899
+locality_La Louvière,-0.009119315
+locality_La Louvière Besonrieux,-0.001372024
+locality_La Louvière Haine-Saint-Pierre,-0.008334527
+locality_La Louvière Houdeng-Aimeries,-0.009737388
+locality_La Louvière Houdeng-Goegnies,-0.016427315
+locality_La Louvière Maurage,-0.006066071
+locality_La Louvière Strépy-Bracquegnies,-0.009238112
+locality_La Louvière Trivières,-0.007177818
+locality_La Roche-en-Ardenne,-0.005015184
+locality_Laakdal,-0.00316334
+locality_Laakdal Veerle,-0.003126115
+locality_Laarne,0.000932455
+locality_Laeken,-0.000584811
+locality_Laeken (Bruxelles),-0.007726019
+locality_Laken,-0.00359552
+locality_Lambermont,-0.004460213
+locality_Lanaken,-0.003348465
+locality_Landegem,-0.000717508
+locality_Landen,-0.005690571
+locality_Langdorp (Aarschot),-0.002854355
+locality_Langemark,-0.005029928
+locality_Langemark-Poelkapelle,-0.00621108
+locality_Lasne,0.05030282
+locality_Lasne Maransart,-0.000136749
+locality_Lasne Ohain,0.043839054
+locality_Lauwe,6.99E-05
+locality_Le Roeulx,-0.001740914
+locality_Le Roux,-0.001767312
+locality_Lebbeke,0.001920472
+locality_Lede,0.013767443
+locality_Ledeberg,0.00193791
+locality_Ledegem,-0.006948382
+locality_Leefdaal,-0.00310141
+locality_Leers-Noord,0.005553498
+locality_Leffinge,-0.003722387
+locality_Leglise,-0.000532037
+locality_Lembeek,-0.000504747
+locality_Lembeke,0.007220607
+locality_Lendelede,-0.005013413
+locality_Lennik,-0.00082317
+locality_Leopoldsburg,-0.014864204
+locality_Leopoldsburg Heppen,-0.003743753
+locality_Leros,-0.001989662
+locality_Les Waleffes,-0.000408509
+locality_Lesdain,-0.006189598
+locality_Lessines,-0.009354341
+locality_Lessines Deux-Acren,-0.000700998
+locality_Lessines Ghoy,-0.001482804
+locality_Leuven,0.007786274
+locality_Leuven Kessel-Lo,-0.001273202
+locality_Leuze-En-Hainaut,-0.019522222
+locality_Leuze-en-Hainaut Pipaix,-0.004287274
+locality_Leuze-en-Hainaut Thieulain,-0.001742212
+locality_Leval-Trahegnies,-0.007177818
+locality_Leval-trahegnies,-0.006560181
+locality_Libin,-0.006729579
+locality_Libin Ochamps,-0.002014367
+locality_Libin Transinne,-0.003743753
+locality_Libin Villance,-0.000284982
+locality_Libramont,-0.004657857
+locality_Libramont-Chevigny,-0.013428726
+locality_Libramont-Chevigny -Presseux,-0.004092101
+locality_Lichtervelde,0.002946813
+locality_Liedekerke,-0.003365914
+locality_Liege,-0.03382621
+locality_Liege 1,-0.004979028
+locality_Liege 2,0.004804353
+locality_Liege Grivegnée,-0.007668958
+locality_Liege Jupille,-0.006708414
+locality_Lier,-0.007927116
+locality_Lier Koningshooikt,-0.003547685
+locality_Lierde,-0.003018559
+locality_Lierneux,-0.001498022
+locality_Liers,-0.001273202
+locality_Lievegem,-0.002189688
+locality_Liezele,0.007225492
+locality_Ligne,0.00281929
+locality_Lille,-0.000570843
+locality_Lille Poederlee,-0.000750419
+locality_Lillois-Witterzée,0.004357556
+locality_Limbourg,-0.007696634
+locality_Limelette,-0.003862149
+locality_Lincent,-0.005351211
+locality_Linden,0.001172643
+locality_Linkebeek,0.003865203
+locality_Linkeroever,0.008891117
+locality_Lint,0.001524036
+locality_Linter,0.002427133
+locality_Lissewege,-0.003590586
+locality_Liège,-0.039382296
+locality_Liège 2,-0.007825874
+locality_Liège Angleur,-0.007833006
+locality_Liège Bressoux,-0.005226083
+locality_Liège Chênée,-0.008596185
+locality_Liège Glain,-0.006439124
+locality_Liège Grivegnée,-0.011236643
+locality_Liège Jupille-sur-Meuse,-0.007202524
+locality_Liège Jupillesur-Meuse,-0.000822329
+locality_Liège Rocourt,-0.003792268
+locality_Liège Sclessin,-0.005574431
+locality_Liège Wandre,-0.009045534
+locality_Lo-Reninge,-0.000136749
+locality_Lochristi,0.013677578
+locality_Lokeren,-0.001253392
+locality_Lokeren Eksaarde,0.003667899
+locality_Lombardsijde,0.004680793
+locality_Lommel,-0.003652256
+locality_Londerzeel,0.002546949
+locality_Londerzeel Malderen,0.002331047
+locality_Lontzen,-0.006096881
+locality_Loppem,0.000243355
+locality_Los Alcazares,-0.005226083
+locality_Los Alcázares,-0.003966103
+locality_Lot,-0.000907334
+locality_Louise (Bruxelles),-0.000383804
+locality_Louvain-La-Neuve,0.009870919
+locality_Loverval,-0.003959926
+locality_Lubbeek,0.009613163
+locality_Lummen,-0.00281855
+locality_Luttre,-0.009319457
+locality_LÉGLISE,-0.001503668
+locality_Léglise,-0.006392036
+locality_MALDEREN,-0.004421196
+locality_MALONNE,0.007398431
+locality_MARCQ,-0.00280601
+locality_MARILLES,0.002402153
+locality_MARLOIE,-0.00579431
+locality_MARNEFFE,-0.004979028
+locality_MEERBEEK,-0.0026073
+locality_MEERDONK,-0.004707268
+locality_MEETKERKE,0.000703238
+locality_MERBES-SAINTE-MARIE,-0.005942543
+locality_MOERBEKE,-0.004237863
+locality_MOERZEKE,0.007892541
+locality_MOGIMONT,-0.006560181
+locality_MOHA,-0.002854355
+locality_MOIGNELÉE,-0.006185395
+locality_MOLENBEEK-SAINT-JEAN,-0.012137939
+locality_MOMALLE,-0.001273202
+locality_MONS-LEZ-LIÈGE,-0.007347995
+locality_MONT-SAINT-AUBERT,-0.005819016
+locality_MONT-SAINT-GUIBERT,-0.00152073
+locality_MONTEGNÉE,-0.008858634
+locality_MONTROEUL-AU-BOIS,-0.004460213
+locality_MORLANWELZ-MARIEMONT,-0.007967652
+locality_MORNIMONT,-0.001989662
+locality_MOUSCRON,-0.008509229
+locality_MOUSTY,-0.001866134
+locality_Maarkedal,-0.002990235
+locality_Maaseik,-0.001966094
+locality_Maasmechelen,-0.00624073
+locality_Mabompré,-0.000383804
+locality_Machelen,0.001837106
+locality_Machelen Diegem,0.001691459
+locality_Macquenoise,-0.006930763
+locality_Maffle,0.003000851
+locality_Maldegem,-0.00436186
+locality_Malle,0.00481109
+locality_Malmedy,-0.00602848
+locality_Manage,-0.00225075
+locality_Manhay,-0.009222814
+locality_Marche-en-Famenne,-0.013668783
+locality_Marche-en-Famenne Hargimont,-0.001026147
+locality_Marchienne-au-Pont,-0.0171623
+locality_Marchin,0.001115943
+locality_Marcinelle,-0.021752668
+locality_Mariakerke,-0.003411966
+locality_Marke,0.016857708
+locality_Markegem,0.001136202
+locality_Marloie,-0.006066071
+locality_Martelange,-0.009294748
+locality_Mazenzele,0.006997436
+locality_Mazée,-0.004460213
+locality_Mechelen,-0.008800781
+locality_Mechelen Hombeek,0.018762964
+locality_Mechelen-Zuid,-0.001851311
+locality_Mechelen-Zuid (Mechelen),-0.003743753
+locality_Meerbeke,-0.004361391
+locality_Meerhout,0.001064236
+locality_Meetkerke,0.000110306
+locality_Meise,0.010621661
+locality_Meix-devant-Virton,-0.009103217
+locality_Melen,-0.000630859
+locality_Melissia,0.002045527
+locality_Melle,-0.003612346
+locality_Mellet,-0.00507785
+locality_Mellier (Léglise),-0.006239009
+locality_Melsele,-0.005958576
+locality_Melsen,0.011104257
+locality_Menen,-0.019687276
+locality_Merchtem,-0.00149783
+locality_Merchtem Brussegem,0.002185569
+locality_Merelbeke,0.005716824
+locality_Merkem,-0.001767312
+locality_Merksem,-0.021127026
+locality_Merksem (Antwerpen),-0.006385106
+locality_Merksplas,0.005298318
+locality_Merlemont,-0.0026073
+locality_Meslin-l'Evêque,-0.001001442
+locality_Messancy,0.003586116
+locality_Mettet,0.002759068
+locality_Meulebeke,-0.003868731
+locality_Middelkerke,-0.019254444
+locality_Milmort,-0.002854355
+locality_Modave,-0.000269467
+locality_Moen,-0.002010305
+locality_Moerbeke,-0.001742607
+locality_Moerbeke-Waas,-0.002945888
+locality_Moere,-0.002508478
+locality_Moerkerke,0.001768506
+locality_Mol,-0.008634448
+locality_Molenbeek,-0.004237863
+locality_Molenbeek-Saint-Jean,-0.025374198
+locality_Molenbeek-St-Jean,-0.005958576
+locality_Molenbeersel,-0.001026147
+locality_Momignies,-0.005201378
+locality_Monceau-sur-Sambre,-0.016042491
+locality_Mons,-0.017868161
+locality_Mons Ghlin,-0.005942543
+"locality_Mons Obourg,Saint-Denis",-0.005942543
+locality_Mont-Saint-Guibert,-0.002508478
+locality_Mont-Saint-Guibert Corbais,-0.003842575
+locality_Mont-de-l'Enclus,-0.002023381
+locality_Mont-sur-Marchienne,-0.011983174
+locality_Montegnee,-0.007897771
+locality_Montignies-sur-Sambre,-0.018010457
+locality_Moorsel,-0.000368103
+locality_Moorsele,-0.003530214
+locality_Moorslede,-0.003090348
+locality_Morkhoven,-0.003768458
+locality_Morlanwelz,-0.006436678
+locality_Morlanwelz Mont-Sainte-Aldegonde,-0.004460213
+locality_Mortier,0.001716164
+locality_Mortsel,0.007714743
+locality_Mourcourt,0.006163156
+locality_Mouscron,-0.034270289
+locality_Mouscron Dottignies,-0.004484918
+locality_Muizen,0.002704385
+locality_Munte,-0.003743753
+locality_Musson,-0.003053593
+locality_Musson Mussyla-Ville,0.004186715
+locality_Mussy-la-Ville,-0.000754387
+locality_MÉLIN,0.004903175
+locality_NALINNES,-0.000507331
+locality_NAOMÉ,-0.004560958
+locality_NEDER-OVER-HEEMBEEK (BRU.),-0.004211553
+locality_NEDERBRAKEL,-0.001260849
+locality_NEDERENAME,-0.00458374
+locality_NEEROETEREN,-0.00408963
+locality_NETHEN,-0.001273202
+locality_NEVELE,0.009004289
+locality_NIEUWENHOVE,0.001839692
+locality_NIEUWENRODE,-0.001767312
+locality_NIEUWKERKEN-WAAS,-0.002730827
+locality_NIL-SAINT-VINCENT-SAINT-MARTIN,-1.32E-05
+locality_NIMY,-0.009195317
+locality_NINOVE,-0.005003734
+locality_NODEBAIS,0.005100078
+locality_NOISEUX,-0.00310141
+locality_NOVILLE-SUR-MÉHAIGNE,-0.001372024
+locality_NY,-0.008190744
+locality_Naast,-0.001767312
+locality_Nafraiture,-0.001767312
+locality_Nalinnes,-0.008032124
+locality_Namur,-0.017470987
+locality_Namur Belgrade,0.000480889
+locality_Namur Champion,-0.0026073
+locality_Namur Flawinne,-0.0026073
+locality_Namur Saint-Servais,-0.006313126
+locality_Nandrin,0.000202495
+locality_Naninne,-0.006189598
+locality_Nassogne,0.003322022
+locality_Nazareth,-0.002827846
+locality_Nea Artaki,-0.005819016
+locality_Nea Makri,-0.005434469
+locality_Neder-over-Heembeek,-0.002887376
+locality_Neder-over-Heembeek (Brussel),0.001222054
+locality_Nederename,0.001098527
+locality_Nederokkerzeel,0.006286683
+locality_Neeroeteren,-0.001273202
+locality_Neos Kosmos,-0.006807236
+locality_Neufchateau,-0.008226721
+locality_Neufchateau-Longlier,-0.004546682
+locality_NeufchÃteau,-0.00089221
+locality_NeufchÃteau Longlier,-0.002187306
+locality_NeufchÃteau-Petitvoir,-0.003722387
+locality_Neufchâteau,-0.011920593
+locality_Neufvilles,-0.005460786
+locality_Neupre,-0.007089144
+locality_Neupré,-0.003792268
+locality_Neuville,-0.006895382
+locality_Neuville (Philippeville),-0.006930763
+locality_Nevele Merendree,0.001469109
+locality_Niel,-0.010839622
+locality_Nieuwerkerken,-0.003381701
+locality_Nieuwerkerken Kozen,-0.002114771
+locality_Nieuwpoort,-0.001044484
+locality_Nijlen,0.008053759
+locality_Nijlen Bevel,0.002333802
+locality_Nijlen Kessel,-0.002113189
+locality_Ninove,-0.005716609
+locality_Ninove Aspelare,0.009004289
+locality_Ninove Meerbeke,-0.000542805
+locality_Nivelles,-0.006200165
+locality_Noirefontaine,0.006039628
+locality_Noiseux,-0.003496698
+locality_Nord (Bruxelles),-0.003006108
+locality_Nord-Est (Bruxelles),0.005183834
+locality_Nossegem,0.007769014
+locality_Nossegem ,0.009844276
+locality_ODEUR,0.048897938
+locality_OEKENE,-0.005967249
+locality_OETINGEN,0.00542199
+locality_OHAIN,-0.000630859
+locality_OISQUERCQ,-0.00408963
+locality_OLSENE,0.00151852
+locality_OMBRET,-0.005473138
+locality_ONZE-LIEVE-VROUW-OLEN,-0.002755533
+locality_OOIGEM,-0.002113189
+locality_OOIKE,0.001710854
+locality_OOSTDUINKERKE,-0.000630859
+locality_OPBRAKEL,-0.005028439
+locality_OPPREBAIS,-0.001866134
+locality_OREYE,-0.003743753
+locality_ORP-LE-GRAND,-0.004414749
+locality_ORROIR,-0.003719047
+locality_OTEPPE,0.006780793
+locality_OTHÉE,-0.005976046
+locality_OTTENBURG,-0.001273202
+locality_OUDEGEM,-0.004345206
+locality_OUFFET,-0.001619079
+locality_OVERMERE,-0.000136749
+locality_Obourg,-0.009033336
+locality_Ocquier,-0.003842575
+locality_Oedelem,-0.004336685
+locality_Oeudeghien,-0.003878793
+locality_Ohain,0.004903175
+locality_Ohey,-0.00832515
+locality_Oignies,-0.007943689
+locality_Oisquercq,-0.00246453
+locality_Olen,-0.002708846
+locality_Olmen,-0.004491077
+locality_Olne,-0.010416532
+locality_Olsene,-0.001372024
+locality_On,-0.003496698
+locality_Onkerzele,0.000819872
+locality_Onze-Lieve-Vrouw-Waver,-0.008095717
+locality_Ooigem,0.002432624
+locality_Oombergen,-3.79E-05
+locality_Oost-Vlaanderen,-5.36E-05
+locality_Oostakker,-0.001069214
+locality_Oostduinkerke,0.021417479
+locality_Oostende,-0.027463084
+locality_Oosterzele,0.017677324
+locality_Oostkamp,0.007945087
+locality_Oostnieuwkerke,-0.002483772
+locality_Oostrozebeke,0.000108325
+locality_Opglabbeek,-0.004460213
+locality_Ophain-Bois-Seigneur-Isaac,0.00275622
+locality_Opwijk,0.006658438
+locality_Oquier,-0.00287906
+locality_Oreye,-0.002875081
+locality_Orihuela-Costa,-0.003471992
+locality_Oropos,-0.004954323
+locality_Orp-Jauche,-0.003317191
+locality_Orp-le-Grand,-0.003743753
+locality_Ortho (La Roche-en-Ardenne),-0.005942543
+locality_Ostende,-0.001989662
+locality_Otegem,-0.002896919
+locality_Ottignies,0.011806811
+locality_Ottignies-Louvain-la-Neuve,0.001067229
+locality_Ottignies-Louvain-la-Neuve Louvain-la-Neuve,0.000592759
+locality_Ottignies-louvain-la-neuve,0.001728324
+locality_Oud-Heverlee,0.008212545
+locality_Oud-Heverlee (Blanden),0.002514484
+locality_Oud-Turnhout,-0.000873698
+locality_Oudegem,0.002185569
+locality_Oudenaarde,-0.008329401
+locality_Oudenburg,-0.002652313
+locality_Oudsbergen,-0.006156236
+locality_Ouffet,-0.005201274
+locality_Ouffet Warzée,-0.00408963
+locality_Ougrée,-0.012622564
+locality_Oupeye,-0.015075659
+locality_Oupeye Vivegnis,-0.004237863
+locality_Outrijve,-0.00396697
+locality_Overijse,0.013304587
+locality_Overijse Jezus-Eik,0.009745454
+locality_Overwinden,-0.000136749
+locality_Overwinden (Landen),-0.000630859
+locality_PAILHE,-0.006045927
+locality_PATURAGES,-0.010675537
+locality_PERONNES-LEZ-BINCHE,-0.002730852
+locality_PETIT-ENGHIEN,0.005545518
+locality_PETIT-HAN,-0.003249643
+locality_PETITVOIR,-0.001248497
+locality_PEUTIE,-0.000383804
+locality_PIRONCHAMPS,-0.003966103
+locality_PIÉTRAIN,-0.007054291
+locality_PIÉTREBAIS,-0.002755533
+locality_POLLEUR,0.00443377
+locality_PONT DE BONNE,-0.003496698
+locality_PONT-DE-LOUP,-0.00493116
+locality_PONTISSE,-0.005324905
+locality_POTTES,-0.004460213
+locality_PUURS,-0.005497844
+locality_PUURS-SINT-AMANDS,-0.003722141
+locality_Paal,-0.000577746
+locality_Paal (Beringen),-0.003113762
+locality_Pagkrati,-0.006189598
+locality_Paliseul,-0.018354179
+locality_Paliseul Offagne,-0.004613368
+locality_Pecq,-0.005324905
+locality_Peer,0.001881641
+locality_Pefki,-0.006189598
+locality_Pelt,-0.002289427
+locality_Pepingen,-0.001591019
+locality_Pepinster,-0.006014215
+locality_Pepinster Wegnez,-0.005596666
+locality_Peruwelz,-0.006436653
+locality_Perwez,-0.004744627
+locality_Petit-Hallet,-0.004979028
+locality_Petit-Han,-0.006461359
+locality_Petit-Thier,-0.004101983
+locality_Petithan (Durbuy),-0.003496698
+locality_Philippeville,0.000604416
+locality_Pietrebais,-0.004460213
+locality_Pijpelheide,-0.000284982
+locality_Pipaix,-0.001742607
+locality_Pittem,-0.003843969
+locality_Piétrain,-1.32E-05
+locality_Plainevaux,-0.003990808
+locality_Polleur (Verviers),0.000233834
+locality_Pommeroeul,-0.005201378
+locality_Pont-a-Celles,-0.013690459
+locality_Pont-à-Celles,-0.009094053
+locality_Poperinge,-0.01378226
+locality_Poppel,0.023457011
+locality_Poros Trizinias,-0.007967652
+locality_Poulseur,-0.000630859
+locality_Profondeville,-0.000136749
+locality_Pulderbos,0.010725491
+locality_Pulle,-0.002508478
+locality_Punta Prima,-0.00337317
+locality_Putte,0.00708919
+locality_Putte Beerzel,-0.000308082
+locality_Puurs Ruisbroek,-0.000507331
+locality_Puurs-Sint-Amands,0.005886238
+locality_PÃturages,-0.005942543
+locality_PÉRUWELZ,-0.005399022
+locality_Péruwelz,-0.010342405
+locality_Péruwelz Bon-Secours,-0.004657857
+locality_QUEVAUCAMPS,-0.0039495
+locality_QUIÉVRAIN,-0.003966103
+locality_QUÉVY-LE-PETIT,-0.004460213
+locality_Quaregnon,-0.013505142
+locality_Quenast,-0.003842575
+locality_Queue-du-Bois,-0.003743753
+locality_Quievrain Baisieux,-0.004830795
+locality_Quiévrain,-0.009277919
+locality_Quiévrain Audregnies,-0.006436653
+locality_RACHECOURT,-0.003126115
+locality_REBECQ,-0.007811609
+locality_REDU,0.004366328
+locality_REET,-0.004665779
+locality_REKKEM,-0.002590608
+locality_REMICOURT,-0.000779092
+locality_RIENNE,-0.002533183
+locality_RIVIÈRE,-1.32E-05
+locality_ROCLENGE-SUR-GEER,-0.006066071
+locality_ROCOURT,-0.010472435
+locality_RONQUIÈRES,-0.00507785
+locality_ROTHEUX-RIMIÈRE,0.002432624
+locality_RUIEN,-0.005967249
+locality_RUPELMONDE,-0.000284982
+locality_Racour,-0.002977882
+locality_Ramillies,-0.003513652
+locality_Rance,-0.001273202
+locality_Ransart,-0.00582877
+locality_Ransberg,0.000505408
+locality_Ranst,-0.000979561
+locality_Ravels,-0.003077993
+locality_Ravels Poppel,0.011697919
+locality_Rebaix,0.000258539
+locality_Rebecq,-0.001063205
+locality_Rebecq-Rognon,-0.003471992
+locality_Reet,0.012035758
+locality_Rekem,-0.004340813
+locality_Rekkem,-0.00396697
+locality_Remicourt,-0.00473566
+locality_Rendeux,-0.004979028
+locality_Retie,0.009288803
+locality_Retinne,-0.001273202
+locality_Retranchement,0.008856056
+locality_Rhode-Saint-Genese,0.054428043
+locality_Rhode-Saint-Genèse,0.063833662
+locality_Rhode-St-Genèse,0.046801511
+locality_Riemst,-0.006222976
+locality_Rijkevorsel,0.00221749
+locality_Rijmenam,0.011930937
+locality_Rillaar,-3.79E-05
+locality_Rillaar (Aarschot),-0.0026073
+locality_Rixensart,0.016776226
+locality_Rixensart Rosières,-0.00310141
+locality_Rochefort,-0.010994234
+locality_Rochefort Han-sur-Lesse,-3.79E-05
+locality_Rochefort Hansur-Lesse,-3.79E-05
+locality_Rochefort Jemelle,-0.006461359
+locality_Rocourt,-0.004979028
+locality_Roesbrugge,-0.003743753
+locality_Roeselare,-0.021251961
+locality_Rollegem,-0.00700488
+locality_Rollegem-Kapelle,-0.004979028
+locality_Romedenne,0.002333802
+locality_Romsée,-0.010337569
+locality_Ronse,-0.023251267
+locality_Roosdaal,0.001642261
+locality_Roosdaal Onze-Lieve-Vrouw-Lombeek,0.000900882
+locality_Rosières,0.00564434
+locality_Rossart (Bertrix),-0.002014367
+locality_Rotheux-rimière,-0.001619079
+locality_Rotselaar,0.006291404
+locality_Rotselaar Wezemaal,0.003322022
+locality_Roulers,-0.003719047
+locality_Roux,-0.01407448
+locality_Ruddervoorde,-0.001107044
+locality_Ruisbroek,-0.003819763
+locality_Ruiselede,0.007274903
+locality_Rumbeke,-0.003559817
+locality_Rummen,0.007089612
+locality_Rumst,-0.000803115
+locality_Rupelmonde,-0.006337567
+locality_Russeignies,-0.00310141
+locality_RÈVES,0.00613845
+locality_Rêves,-1.32E-05
+locality_SAINT- NICOLAS,-0.004237863
+locality_SAINT-DENIS,-0.005324905
+locality_SAINT-GEORGES-SUR-MEUSE,-0.015806182
+locality_SAINT-GHISLAIN,0.001197349
+locality_SAINT-GILLES,0.010236486
+locality_SAINT-GÉRARD,-0.005451939
+locality_SAINT-HUBERT,-0.009808713
+locality_SAINT-JOSSE-TEN-NOODE,-0.001416317
+locality_SAINT-MAUR,-0.00507785
+locality_SAINT-NICOLAS,-0.005720194
+locality_SAINT-SAUVEUR,-0.003842575
+locality_SAINT-SERVAIS,-0.008055003
+locality_SAINT-SYMPHORIEN,-0.001248497
+locality_SAINTES,-0.002113189
+locality_SART-BERNARD,0.00564434
+locality_SART-RISBART,-0.000136749
+locality_SCHAFFEN,-0.00326331
+locality_SCHERPENHEUVEL-ZICHEM,-0.000828503
+locality_SCLAYN,-0.001767312
+locality_SCRY,-0.001866134
+locality_SEILLES,-0.009653529
+locality_SERAING,-0.003617565
+locality_SERSKAMP,0.00295144
+locality_SILLY (Hellebecq),-0.002039073
+locality_SINAAI,-3.79E-05
+locality_SINT-AGATHA-BERCHEM,-0.00169584
+locality_SINT-AGATHA-RODE,0.005545518
+locality_SINT-AMANDS,-0.005294707
+locality_SINT-AMANDSBERG,-0.004440971
+locality_SINT-ANDRIES,-0.003002588
+locality_SINT-BRIXIUS-RODE,-0.000260276
+locality_SINT-DENIJS-WESTREM,-0.010218861
+locality_SINT-ELOOIS-VIJVE,0.000480889
+locality_SINT-GENESIUS-RODE,0.010691447
+locality_SINT-GILLIS-DENDERMONDE,-0.005450904
+locality_SINT-GILLIS-WAAS,-0.004460881
+locality_SINT-JANS-MOLENBEEK,-0.007918251
+locality_SINT-JOB-IN-'T GOOR,-0.004979028
+locality_SINT-JOB-IN-'T-GOOR,-0.004361391
+locality_SINT-JOOST-TEN-NODE,-0.004141672
+locality_SINT-JORIS-WEERT,-0.001273202
+locality_SINT-JOZEF,-0.00310141
+locality_SINT-KATELIJNE-WAVER,0.003591096
+locality_SINT-KATHERINA-LOMBEEK,0.000837343
+locality_SINT-KWINTENS-LENNIK,0.005798887
+locality_SINT-LAMBRECHTS-WOLUWE,0.00599106
+locality_SINT-LENAARTS,0.002566895
+locality_SINT-LIEVENS-HOUTEM,-0.006133278
+locality_SINT-MICHIELS,5.12E-05
+locality_SINT-NIKLAAS,-0.009858435
+locality_SINT-PAUWELS,-0.001107044
+locality_SINT-PIETERS-LEEUW,-0.002980093
+locality_SINT-PIETERS-WOLUWE,0.019285903
+locality_SINT-STEVENS-WOLUWE,-0.003990808
+locality_SINT-TRUIDEN,-0.010179273
+locality_SIRAULT,-0.008413094
+locality_SOY,0.010463438
+locality_SPIERE,-0.003743753
+locality_STAMBRUGES,-0.000136749
+locality_STEENDORP,0.004903175
+locality_SUGNY,-0.008055003
+locality_Saint-Aubin,-0.005226083
+locality_Saint-Georgessur-Meuse,-0.003719047
+locality_Saint-Ghislain,-0.009943063
+locality_Saint-Ghislain Hautrage,-0.001112221
+locality_Saint-Ghislain Sirault,-0.002330691
+locality_Saint-Gilles,0.031316067
+locality_Saint-Hubert,-0.003425393
+locality_Saint-Hubert Awenne,-0.005473138
+locality_Saint-Josse-ten-Noode,-0.008986167
+locality_Saint-Léger,0.000330706
+locality_Saint-Nicolas,-0.015510963
+locality_Saint-Privat-des-Vieux,-0.001372024
+locality_Saint-Servais,-0.003719047
+locality_Saint-ghislain,-0.005324905
+locality_Saint-hubert,-0.007449579
+locality_Saint-remy (-lez-dalhem),0.003692605
+locality_Sambreville,-0.00557196
+locality_Sambreville Arsimont,-0.006189598
+locality_Sart-Dames-Avelines,-0.000136749
+locality_Sart-Dames-Avelines (Villers-la-Ville),0.001197349
+locality_Sas van gent,-0.005720194
+locality_Sauvenière,-0.003496698
+locality_Schaarbeek,-0.001521138
+locality_Schaerbeek,-0.009651743
+locality_Scheldewindeke,-0.002014367
+locality_Schelle,0.006064293
+locality_Schepdaal,0.006410345
+locality_Scherpenheuvel,-0.00244706
+locality_Scherpenheuvel-Zichem,0.005583255
+locality_Schilde,0.017201683
+locality_Schorisse,0.032371103
+locality_Schoten,-0.007422708
+locality_Schriek,-0.002936227
+locality_Schuiferskapelle,-0.002582594
+locality_Sclayn,-0.002755533
+locality_Semmerzake,0.003569077
+locality_Seneffe,-0.002483491
+locality_Seneffe Arquennes,-0.004979028
+locality_Seraing,-0.04024281
+locality_Seraing Boncelles,-0.006313126
+locality_Seraing Jemeppesur-Meuse,-0.005705258
+locality_Seraing Ougrée,-0.012516787
+locality_Signeulx (Musson),0.002432624
+locality_Sijsele,-0.002483808
+locality_Silenrieux,0.001222054
+locality_Silly,-0.003830222
+locality_Sinaai,0.013797157
+locality_Sint Idesbald,0.002185569
+locality_Sint Pieters Leeuw,-0.003496698
+locality_Sint-Agatha-Berchem,-0.001485105
+locality_Sint-Amands,0.00564434
+locality_Sint-Amandsberg,0.000211322
+locality_Sint-Andries,-0.002961889
+locality_Sint-Baafs-Vijve,-0.005275494
+locality_Sint-Denijs-Westrem,0.000575619
+locality_Sint-Eloois-Winkel,-0.004979028
+locality_Sint-Genesius-Rode,-0.00092715
+locality_Sint-Gillis-Waas,-0.001274245
+locality_Sint-Idesbald,-0.004085158
+locality_Sint-Jans-Molenbeek,-0.004663915
+locality_Sint-Job-In-'t-Goor,0.007373725
+locality_Sint-Joost-ten-Node,0.004418739
+locality_Sint-Joris,-0.000803798
+locality_Sint-Joris-Weert,0.002333802
+locality_Sint-Katherina Lombeek,-0.002113189
+locality_Sint-Kruis,0.000749449
+locality_Sint-Lambrechts-Woluwe,0.007015585
+locality_Sint-Laureins,-0.004131231
+locality_Sint-Lenaarts,-0.003694367
+locality_Sint-Lievens-Houtem,-0.006114681
+locality_Sint-Maria-Oudenhove,-0.005720194
+locality_Sint-Martens-Latem,0.009178043
+locality_Sint-Martens-Latem Deurle,0.004804353
+locality_Sint-Michiels,4.91E-05
+locality_Sint-Niklaas,-0.013942381
+locality_Sint-Pieters-Leeuw,-0.00054334
+locality_Sint-Pieters-Leeuw Vlezenbeek,-0.00408963
+locality_Sint-Pieters-Woluwe,0.004149355
+locality_Sint-Stevens-Woluwe,0.001691459
+locality_Sint-Truiden,-0.011384038
+locality_Sint-amandsberg,0.001197349
+locality_Sint-eloois-Winkel,-0.00408963
+locality_Skiros,-0.008859872
+locality_Sleidinge,8.62E-05
+locality_Sluis,0.00216508
+locality_Smetlede,-0.002977882
+locality_Soignies,-0.014775915
+locality_Soignies Neufvilles,0.004424357
+locality_Solre-sur-Sambre,-0.005448433
+locality_Sombreffe,-0.006246772
+locality_Somzée,-0.008536621
+locality_Soumagne,-0.00507785
+locality_Souvret,-0.010535776
+locality_Spa,-0.003389449
+locality_Spiennes,0.001209701
+locality_Spiere-Helkijn,0.001104035
+locality_Spierre-helkijn,-0.001989662
+locality_Sprimont,-0.009866605
+locality_Sprimont Gomze-Andoumont,-0.004237863
+locality_St-Eloois-Winkel,-0.00287906
+locality_St-Georges-sur-Meuse,-0.0026073
+locality_St-Gilles,0.012102374
+locality_St-Gillis-bij-Dendermonde,-0.003075988
+locality_St-Joris-Weert,0.000156004
+locality_St-Lievens-Houtem,0.000727944
+locality_St-Mard,-0.00552182
+locality_St-Niklaas,-0.005843721
+locality_St-Servais,-0.007530896
+locality_St-Stevens-Woluwe,-0.003496698
+locality_Stabroek,-0.000388324
+locality_Staden,-0.003014843
+locality_Stave,-0.006686179
+locality_Stavelot,-0.005259767
+locality_Ste-Ode,-0.003699431
+locality_Steenhuize-Wijnhuize,-0.001273202
+locality_Steenokkerzeel,0.002543278
+locality_Steenokkerzeel Perk,0.002333802
+locality_Stekene,0.000796158
+locality_Stekene Kemzeke,-0.005473138
+locality_Stembert,-0.009051366
+locality_Sterrebeek,0.023042002
+locality_Stoumont,0.00068011
+locality_Strombeek-Bever,-0.010646705
+locality_Strombeek-bever,0.002479544
+locality_Strée,-0.006063397
+locality_Sugny,-0.007918984
+locality_TAMINES,-0.003842575
+locality_TAVIERS,-0.005201378
+locality_THIMÉON,-0.006683708
+locality_TIHANGE,-0.006214304
+locality_TILFF,-0.003918095
+locality_TISSELT,-0.003023578
+locality_TOHOGNE,-0.009277787
+locality_TOURNAI,-0.003496698
+locality_TRANSINNE,-0.00678253
+locality_Talence,0.00344555
+locality_Tamines,-0.007298068
+locality_Tarcienne,-0.003743753
+locality_Taviers,-3.79E-05
+locality_Tavigny (Houffalize),-0.001248497
+locality_Tellin,-0.001957894
+locality_Temse,-0.002497014
+locality_Tenneville,0.003108472
+locality_Ternat,-0.001337338
+locality_Ternat Sint-Katherina-Lombeek,0.001334976
+locality_Ternat Wambeek,0.001172915
+locality_Tertre,-0.004966676
+locality_Tervuren,0.040525525
+locality_Tessenderlo,0.00251446
+locality_Testelt,-0.005001398
+locality_Testelt (Scherpenheuvel-Zichem),-0.002854355
+locality_Theux,-0.00624073
+locality_Thimister-Clermont,0.000470468
+locality_Thiméon,-0.006807236
+locality_Thuin,-0.005303518
+locality_Tiegem,-8.86E-05
+locality_Tielen,0.023457011
+locality_Tielrode,-0.003743753
+locality_Tielt,-0.010419879
+locality_Tielt (8700),-0.004287274
+locality_Tielt-Winge,-0.004476058
+locality_Tienen,-0.018372481
+locality_Tilet Winge,0.001963219
+locality_Tilleur,-0.00857911
+locality_Tintigny,-0.004665779
+locality_Tintigny Rossignol,-0.004830795
+locality_Tisselt,-0.00548688
+locality_Tohogne,-0.007795456
+locality_Tollembeek,0.000950293
+locality_Tongeren,-0.016190896
+locality_Tongerlo,-0.000136749
+locality_Torgny,-0.00241212
+locality_Torhout,-0.002639132
+locality_Tourinnes-Saint-Lambert,-0.000136749
+locality_Tourinnes-St-Lambert,0.000869358
+locality_Tourinnes-la-Grosse,-0.001273202
+locality_Tournai,-0.010494074
+locality_Tournai Havinnes,-0.00396697
+locality_Tournai Quartes,-0.000292023
+locality_Trazegnies,-0.013486037
+locality_Tremelo,0.003299517
+locality_Tremelo Baal,-0.003842575
+locality_Trooz,-0.024017021
+locality_Trooz Fraipont,-0.004237863
+locality_Trooz Nessonvaux,-0.007696634
+locality_Tubize,-0.015906597
+locality_Turnhout,-0.008834382
+locality_Uccle,0.126531699
+locality_Uccle - Parc Brugmann,-0.003842575
+locality_Ucimont,-0.007449579
+locality_Ursel,-3.79E-05
+locality_VARSENARE,0.001197349
+locality_VAUX-ET-BORSET,0.023129353
+locality_VELAINES,0.001222054
+locality_VELLEREILLE-LES-BRAYEUX,0.004186715
+locality_VELTEM-BEISEM,0.003569077
+locality_VIERSEL,0.007892541
+locality_VIERSET-BARSE,-0.00546941
+locality_VIEUXVILLE,-0.003089057
+locality_VILLERS-L'EVÊQUE,-0.004707268
+locality_VILLERS-L'ÉVÊQUE,-0.006508888
+locality_VILLERS-LE-TEMPLE,-0.000532037
+locality_VILLERS-PERWIN,-0.005451939
+locality_VILLERS-SAINT-AMAND,-0.001989662
+locality_VILLERS-SUR-LESSE,0.006904321
+locality_VISE,-0.002508478
+locality_VOSSELARE,-0.003348465
+locality_VRASENE,0.009415224
+locality_Vance,-0.004707268
+locality_Varsenare,0.00344555
+locality_Vaucelles,-0.007869573
+locality_Vaux-et-Borset,-0.001273202
+locality_Vaux-sous-Chèvremont,-0.009958496
+locality_Vaux-sur-Sûre,-0.002105597
+locality_Vedrin,-0.001521138
+locality_Velaines,-0.000532037
+locality_Velm,-0.003496698
+locality_Veltem-Beisem,0.004162009
+locality_Verlaine,-0.000779092
+locality_Verviers,-0.023484853
+locality_Verviers Ensival,0.00613845
+locality_Veurne,0.001574426
+locality_Vichte,-0.003471992
+locality_Vielsalm,-0.009884572
+locality_Viesville,-0.003743753
+locality_Villajoyosa,0.006064293
+locality_Villers-Ste-Gertrude,-0.005226083
+locality_Villers-aux-Tours,-0.007565837
+locality_Villers-la-Ville,-0.003050899
+locality_Villers-la-Ville (Villers-la-Ville),-0.000532037
+locality_Villers-le-Bouillet,-0.010631624
+locality_Vilvoorde,-0.007387493
+locality_Vilvoorde Koningslo,-0.000298222
+locality_Vilvoorde Peutie,0.000961385
+locality_Vilvorde,-0.003774798
+locality_Virginal-Samme,-0.00507785
+locality_Virton,-0.008032398
+locality_Virton Ruette,-0.002977882
+locality_Visé,-0.006043059
+locality_Vivegnis,-0.010367114
+locality_Vlaams Brabant,-3.79E-05
+locality_Vlamertinge,-0.000779092
+locality_Vleteren,-0.000136749
+locality_Vlezenbeek,0.004903175
+locality_Vlierzele,0.001073821
+locality_Vlimmeren,-0.001619079
+locality_Voeren,-0.003348465
+locality_Voroux-lez-Liers,-0.004979028
+locality_Vorselaar,0.00295144
+locality_Vorst,0.019006379
+locality_Vosselaar,-0.002205062
+locality_Vossem,0.005669045
+locality_Vottem,-0.005888695
+locality_Voula,0.150697741
+locality_Vrasene,0.000480889
+locality_Vresse-sur-Semois,-0.006461359
+locality_Vroenhoven,-0.001001442
+locality_Vurste,-0.000630859
+locality_Vyronas,-0.006683708
+locality_WAARDAMME,0.002432624
+locality_WAARLOOS,0.004903175
+locality_WAARSCHOOT,-0.004237863
+locality_WADELINCOURT,-0.006807236
+locality_WALHAIN,-0.003127411
+locality_WALHAIN-SAINT-PAUL,-0.001273202
+locality_WANDRE,-0.010243569
+locality_WARZÉE,-0.0026073
+locality_WASMES,-0.005819016
+locality_WAULSORT,0.002432624
+locality_WAVRE (BIERGES),0.000851471
+locality_WECHELDERZANDE,0.000478418
+locality_WENDUINE,-0.005748933
+locality_WESTENDE-BAD,-0.003232534
+locality_WESTREM,-3.79E-05
+locality_WEZ-VELVAIN,-0.003570814
+locality_WIHERIES,-0.004954323
+locality_WIJSHAGEN,-0.001989662
+locality_WOLKRANGE,0.006707339
+locality_WOLUWE-SAINT-LAMBERT,0.002544803
+locality_WOLUWE-SAINT-PIERRE,0.019530085
+locality_WOLUWÉ-SAINT-LAMBERT,0.001195482
+locality_WOLUWÉ-SAINT-PIERRE,0.008436346
+locality_Waanrode,0.00295144
+locality_Waardamme,-0.001237812
+locality_Waarschoot,0.003074967
+locality_Waasmunster,0.022811159
+locality_Wachtebeke,-0.004333532
+locality_Wagnelée,-0.003719047
+locality_Waha,-0.003496698
+locality_Waimes,-0.0026073
+locality_Wakken,-0.001384377
+locality_Walcourt,-0.007498192
+locality_Walcourt Tarcienne,-0.000674761
+locality_Walem,0.001151807
+locality_Walhain,-0.000997031
+locality_Walshoutem,-0.004213158
+locality_Wandre,-0.001273202
+locality_Wanfercée-Baulet,-0.012936838
+locality_Wanze,-0.010785375
+locality_Waregem,-0.01025857
+locality_Waremme,-0.009994158
+locality_Warsage,-0.000803798
+locality_Wasmes,-0.013579269
+locality_Wasseiges Acosse,-0.001866134
+locality_Waterlandkerkje,0.031980411
+locality_Waterloo,0.029891333
+locality_Watermael-Boitsfort,0.029981185
+locality_Watervliet,0.008016069
+locality_Watou,-0.002508478
+locality_Waudrez,-0.006313126
+locality_Wauthier-Braine,-0.000877914
+locality_Wavre,-0.000792306
+locality_Wavre Bierges,0.02098646
+locality_Wavre Limal,0.006183232
+locality_Weelde,-0.004960517
+locality_Welden,0.001839692
+locality_Welkenraedt,-0.002160003
+locality_Welle,0.001189626
+locality_Wellen,0.005292251
+locality_Wellin,-0.005814505
+locality_Wellin Chanly,-0.005819016
+locality_Wemmel,0.003492606
+locality_Wenduine,-0.005790326
+locality_Wenduine (De Haan),-0.006708414
+locality_Werchter,-0.002977882
+locality_Wervik,-0.00588583
+locality_Westende,-0.013690251
+locality_Westerlo,-0.003871467
+locality_Westerlo (Oevel),-0.000877914
+locality_Westerlo (Tongerlo),-0.004336685
+locality_Westmeerbeek,0.018515909
+locality_Westrem,-0.000136749
+locality_Wetteren,-0.015272982
+locality_Wevelgem,-0.014828359
+locality_Wezembeek-Oppem,0.02878257
+locality_Wibrin,-0.005967249
+locality_Wichelen,-0.004858704
+locality_Wichelen Serskamp,-0.005473138
+locality_Wiekevorst,0.000400587
+locality_Wielsbeke,-0.004924403
+locality_Wiers,0.000604416
+locality_Wieze,-0.001372024
+locality_Wijnegem,0.0105411
+locality_Wijtschate,-0.009162556
+locality_Willebroek,-0.011578364
+locality_Willebroek Blaasveld,0.001868086
+locality_Wilrijk,0.001570756
+locality_Wilsele,0.005150065
+locality_Wingene,-0.008134785
+locality_Winksele,-3.79E-05
+locality_Wolkrange (Messancy),-3.79E-05
+locality_Woluwe Saint Pierre,0.012314827
+locality_Woluwe-Saint-Lambert,0.023999148
+locality_Woluwe-Saint-Lambert - Sint-Lambrechts-Woluwe,0.008139596
+locality_Woluwe-Saint-Pierre,0.07231824
+locality_Woluwe-St-Lambert,0.001592637
+locality_Woluwe-St-Pierre,0.000601946
+locality_Woluwe-saint-pierre,-0.00310141
+locality_Wolvertem,-0.000668877
+locality_Wommelgem,-0.006307302
+locality_Wommersom,-0.002755533
+locality_Wondelgem,-0.003910952
+locality_Wortegem-Petegem,-0.003530214
+locality_Wuustwezel,-0.006442166
+locality_WÉPION,0.01237341
+locality_Wépion,0.000837343
+locality_Wéris,-0.001026147
+locality_Xhendremael,-0.001767312
+locality_Xhoris,-0.003027293
+locality_Xilokastro,-0.00848721
+locality_Yvoir,-0.003966103
+locality_ZEVENEKEN ( Lochristi),0.000456183
+locality_ZICHEM,-0.001248497
+locality_ZILLEBEKE,-0.000507331
+locality_ZOERLE-PARWIJS,-0.001273202
+locality_Zammel,-0.00310141
+locality_Zandhoven,0.002185569
+locality_Zandvliet,-0.001171734
+locality_Zaventem,-0.002623424
+locality_Zaventem Nossegem,-0.000507331
+locality_Zaventem Sint-Stevens-Woluwe,0.003346316
+locality_Zaventem Sterrebeek,0.02227026
+locality_Zedelgem,0.003209736
+locality_Zeebrugge,-0.00770565
+locality_Zele,-0.00155233
+locality_Zellik,-0.005433338
+locality_Zelzate,-0.011597122
+locality_Zemst,0.004523561
+locality_Zemst Elewijt,-0.003743753
+locality_Zichem,-0.004460213
+locality_Zingem,-0.000836009
+locality_Zoersel,0.016048333
+locality_Zonhoven,-0.002650757
+locality_Zonnebeke,-0.003238226
+locality_Zottegem,-0.008244974
+locality_Zoutleeuw,-0.007408605
+locality_Zuienkerke,0.000533434
+locality_Zulte,-0.002605102
+locality_Zutendaal,0.006353567
+locality_Zwalm,-0.000347662
+locality_Zwevegem,-0.010825204
+locality_Zwevezele,-0.000372823
+locality_Zwijnaarde,0.009220849
+locality_Zwijndrecht,-0.001765371
+locality_Zwijndrecht (Zwijndrecht),-0.005818814
+locality_Zwijndrecht Burcht,-0.001124969
+locality_guardamar del segura,-0.006884382
+locality_monceau sur Sambre,-0.005695488
+locality_nerja,-0.004708503
+locality_pilar de la horadada,-0.002856825
+locality_san miguel de salinas,-0.004462683
+locality_villamartin,-0.002632005
+locality_©caussinnes,-0.006395332
+locality_©nines,-0.00408963
+locality_©rez©e,-0.003496698
+locality_Éghezée,-0.004116966
+property_type_APARTMENT,-0.044049725
+property_type_HOUSE,0.044049725
+subtype_property_APARTMENT,-0.044049725
+subtype_property_HOUSE,0.044049725
+type_of_sale_annuity_monthly_amount,-0.040976118
+type_of_sale_first_session_with_reserve_price,-0.009662911
+type_of_sale_residential_sale,0.041549307
