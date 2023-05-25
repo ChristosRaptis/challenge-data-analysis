@@ -550,7 +550,7 @@ Ougrée,4102,Wallonie,HOUSE,HOUSE,180000,1968,residential_sale,2,20,0,0,0,0,,1,1
 Kluisbergen,9690,Flanders,HOUSE,HOUSE,373280,,residential_sale,3,,None,0,0,0,,0,,191,,,0,None
 Gedinne,5575,Wallonie,HOUSE,HOUSE,288000,,residential_sale,3,,None,0,0,0,,1,,155,,,0,None
 Herk-de-Stad,3540,Flanders,APARTMENT,APARTMENT,245000,,residential_sale,2,,None,0,0,0,,0,,90,,,0,None
-SAINT-GEORGES-SUR-MEUSE,04470,,HOUSE,HOUSE,165000,,residential_sale,3,19,0,0,1,1,30,1,150,110,785,3,0,GOOD
+SAINT-GEORGES-SUR-MEUSE,4470,,HOUSE,HOUSE,165000,,residential_sale,3,19,0,0,1,1,30,1,150,110,785,3,0,GOOD
 Braine-le-Chateau,1440,Wallonie,HOUSE,HOUSE,450000,,residential_sale,3,,None,0,0,1,,1,,200,,,0,None
 Dilbeek,1700,Flanders,HOUSE,HOUSE,629000,,residential_sale,3,,None,0,0,0,,0,,153,,,0,None
 Jodoigne,1370,Wallonie,HOUSE,HOUSE,345000,,residential_sale,4,44,0,0,1,1,,1,,180,1100,4,0,TO_BE_DONE_UP
@@ -856,7 +856,7 @@ Berchem,2600,Flanders,APARTMENT,APARTMENT,365000,1974,residential_sale,2,40,0,0,
 Moorsele,8560,Flanders,HOUSE,HOUSE,425000,,residential_sale,4,,None,0,0,0,,1,,195,,,0,None
 Uccle,1180,Brussels,APARTMENT,APARTMENT,420000,,residential_sale,2,31,0,0,0,1,5,0,,100,,2,0,JUST_RENOVATED
 Marcinelle,6001,Wallonie,HOUSE,HOUSE,240000,,residential_sale,3,,None,0,1,0,,0,,214,,,0,None
-GENT,09050,,HOUSE,HOUSE,450000,,residential_sale,3,,None,0,1,0,,1,,135,,,0,None
+GENT,9050,,HOUSE,HOUSE,450000,,residential_sale,3,,None,0,1,0,,1,,135,,,0,None
 Izegem,8870,Flanders,HOUSE,HOUSE,229500,,residential_sale,3,,None,0,0,0,,0,,133,,,0,None
 Jumet,6040,Wallonie,HOUSE,HOUSE,280000,,residential_sale,4,31,0,0,1,0,,0,,250,260,,0,AS_NEW
 Liège,4020,Wallonie,APARTMENT,APARTMENT,158000,,residential_sale,1,,None,0,1,1,5,0,,55,,,0,None
@@ -4250,7 +4250,7 @@ Sint-Denijs-Westrem,9051,Flanders,HOUSE,HOUSE,675000,,residential_sale,4,,None,0
 Grace-Hollogne,4460,Wallonie,HOUSE,HOUSE,190000,,residential_sale,4,17,0,0,0,1,10,1,346,129,529,3,0,GOOD
 Hoeselt,3730,Flanders,HOUSE,HOUSE,298500,,residential_sale,3,,None,0,0,0,,0,,174,,,0,None
 Gent,9000,Flanders,HOUSE,HOUSE,499000,,residential_sale,4,,None,0,1,0,,0,,160,,,0,None
-Borgerhout,02140,,APARTMENT,APARTMENT,149000,,residential_sale,2,,None,0,1,1,2,0,,82,,,0,None
+Borgerhout,2140,,APARTMENT,APARTMENT,149000,,residential_sale,2,,None,0,1,1,2,0,,82,,,0,None
 Antwerpen,2170,Flanders,APARTMENT,APARTMENT,165000,,residential_sale,1,,None,0,0,0,,0,,60,,,0,None
 Moen,8552,Flanders,HOUSE,HOUSE,388000,,residential_sale,4,,None,0,0,0,,1,741,210,,,0,None
 Heers,3870,Flanders,APARTMENT,APARTMENT,295000,2012,residential_sale,3,31,0,0,1,1,22,0,,110,,,0,GOOD
@@ -7371,7 +7371,7 @@ Ath,7812,Wallonie,HOUSE,HOUSE,345000,,residential_sale,3,,None,0,0,1,,0,,150,,,0
 Tienen,3300,Flanders,HOUSE,HOUSE,235000,,residential_sale,5,,None,0,0,1,,0,,168,,,0,None
 Hoboken,2660,Flanders,HOUSE,HOUSE,375000,,residential_sale,3,,None,0,0,1,25,1,95,155,,,0,None
 Antwerp,2060,Flanders,APARTMENT,APARTMENT,197000,,residential_sale,2,,None,0,0,1,2,0,,72,,,0,None
-Orihuela-Costa,03189,,APARTMENT,APARTMENT,260000,,residential_sale,2,,None,0,0,1,,0,,,,,1,None
+Orihuela-Costa,3189,,APARTMENT,APARTMENT,260000,,residential_sale,2,,None,0,0,1,,0,,,,,1,None
 Los Alcazares,30710,,APARTMENT,APARTMENT,189000,,residential_sale,3,,None,1,0,1,75,0,,75,,,1,None
 Sint-Niklaas,9100,Flanders,HOUSE,HOUSE,339000,,residential_sale,3,,None,0,0,1,,1,,172,,,0,None
 Niel,2845,Flanders,HOUSE,HOUSE,249000,,residential_sale,4,,None,0,0,1,,0,,,,,0,None
@@ -8380,14 +8380,14 @@ Wavre,1300,Wallonie,HOUSE,HOUSE,400000,1978,residential_sale,4,60,1,0,1,1,10,1,3
 SINT-KATELIJNE-WAVER,2860,Flanders,HOUSE,HOUSE,415000,,residential_sale,3,,None,0,1,1,,1,,178,,,0,None
 Kortrijk,8500,Flanders,APARTMENT,APARTMENT,175000,,residential_sale,2,,None,0,0,0,,0,,88,,,0,None
 Etalle,6740,Wallonie,HOUSE,HOUSE,399000,,residential_sale,4,,None,0,1,1,50,1,,143,,,0,None
-Villajoyosa,03570,,APARTMENT,APARTMENT,529000,,residential_sale,2,,None,0,0,1,26,0,,94,,,1,None
+Villajoyosa,3570,,APARTMENT,APARTMENT,529000,,residential_sale,2,,None,0,0,1,26,0,,94,,,1,None
 Leuven,3012,Flanders,APARTMENT,APARTMENT,290000,,residential_sale,2,,None,0,0,1,6,0,,90,,,0,None
-Villajoyosa,03570,,APARTMENT,APARTMENT,509000,,residential_sale,2,,None,0,0,1,20,0,,75,,,1,None
+Villajoyosa,3570,,APARTMENT,APARTMENT,509000,,residential_sale,2,,None,0,0,1,20,0,,75,,,1,None
 Schaerbeek,1030,Brussels,HOUSE,HOUSE,320000,1942,residential_sale,3,29,0,0,0,1,36,1,36,124,95,2,0,GOOD
 Braine-L'Alleud,1420,Wallonie,APARTMENT,APARTMENT,361800,,residential_sale,3,,None,0,0,1,13,0,,131,,,0,None
 Braine-L'Alleud,1420,Wallonie,APARTMENT,APARTMENT,356725,,residential_sale,2,,None,0,0,1,14,0,,106,,,0,None
-Villajoyosa,03570,,APARTMENT,APARTMENT,540000,,residential_sale,2,,None,0,0,1,80,0,,81,,,1,None
-Villajoyosa,03570,,APARTMENT,APARTMENT,515000,,residential_sale,2,,None,0,0,1,31,0,,95,,,1,None
+Villajoyosa,3570,,APARTMENT,APARTMENT,540000,,residential_sale,2,,None,0,0,1,80,0,,81,,,1,None
+Villajoyosa,3570,,APARTMENT,APARTMENT,515000,,residential_sale,2,,None,0,0,1,31,0,,95,,,1,None
 Lier,2500,Flanders,HOUSE,HOUSE,375000,,residential_sale,4,,None,0,0,0,,1,50,271,,,0,None
 Nivelles,1400,Wallonie,HOUSE,HOUSE,350000,,residential_sale,3,,None,0,0,0,,0,,170,,,0,None
 Ixelles,1050,Brussels,APARTMENT,APARTMENT,345000,,residential_sale,2,,None,0,1,0,,0,,85,,,0,None
@@ -8645,8 +8645,8 @@ Sleidinge,9940,Flanders,HOUSE,HOUSE,419000,,residential_sale,2,,None,0,0,0,,1,,,
 Ronse,9600,Flanders,HOUSE,HOUSE,295000,,residential_sale,4,18,0,0,0,0,,1,,193,1060,,0,TO_BE_DONE_UP
 Berchem,2600,Flanders,APARTMENT,APARTMENT,275000,,residential_sale,1,,None,0,1,0,,0,,71,,,0,None
 Seraing Boncelles,4100,Wallonie,APARTMENT,APARTMENT,145000,,residential_sale,1,,None,1,0,0,,0,,17,,,0,None
-san miguel de salinas,03193,,APARTMENT,APARTMENT,219900,,residential_sale,3,,None,0,1,0,,0,,,,,1,None
-guardamar del segura,03140,,APARTMENT,APARTMENT,259000,,residential_sale,2,,None,0,1,0,,0,,,,,1,None
+san miguel de salinas,3193,,APARTMENT,APARTMENT,219900,,residential_sale,3,,None,0,1,0,,0,,,,,1,None
+guardamar del segura,3140,,APARTMENT,APARTMENT,259000,,residential_sale,2,,None,0,1,0,,0,,,,,1,None
 Flémalle,4400,Wallonie,HOUSE,HOUSE,249500,,residential_sale,3,12,1,0,0,1,30,1,320,150,415,2,0,GOOD
 Antwerp,2050,Flanders,HOUSE,HOUSE,495000,,residential_sale,6,,None,0,0,0,,1,150,240,,,0,None
 Brecht,2960,Flanders,HOUSE,HOUSE,495000,,residential_sale,3,,None,0,0,1,,0,,225,,,0,None
@@ -9882,11 +9882,11 @@ Edegem,2650,Flanders,APARTMENT,APARTMENT,285000,,residential_sale,2,,None,0,0,1,
 Arendonk,2370,Flanders,HOUSE,HOUSE,205000,,residential_sale,4,,None,0,0,1,,0,,176,,,0,None
 QUEVAUCAMPS,7972,Wallonie,HOUSE,HOUSE,290000,1995,residential_sale,2,36,0,0,0,1,30,0,,110,2670,4,0,GOOD
 Saint-Gilles,1060,Brussels,APARTMENT,APARTMENT,230000,,residential_sale,1,,None,0,0,1,7,0,,60,,,0,None
-pilar de la horadada,03190,,HOUSE,HOUSE,284900,,residential_sale,3,,None,0,1,0,,0,,33,,,1,None
+pilar de la horadada,3190,,HOUSE,HOUSE,284900,,residential_sale,3,,None,0,1,0,,0,,33,,,1,None
 WIHERIES,7370,Wallonie,HOUSE,HOUSE,200000,,residential_sale,4,35,0,0,0,1,50,1,80,180,393,2,0,GOOD
 Los Alcázares,30710,,APARTMENT,APARTMENT,240000,,residential_sale,3,,None,0,1,0,,0,,,,,1,None
 SINT-TRUIDEN,3800,Flanders,HOUSE,HOUSE,285000,,residential_sale,2,,None,0,1,0,,1,,143,,,0,None
-guardamar del segura,03140,,APARTMENT,APARTMENT,211000,,residential_sale,2,,None,0,1,0,,0,,,,,1,None
+guardamar del segura,3140,,APARTMENT,APARTMENT,211000,,residential_sale,2,,None,0,1,0,,0,,,,,1,None
 BAÑOS Y MENDIGO,30155,,HOUSE,HOUSE,195000,,residential_sale,2,,None,0,1,0,,0,,144,,,1,None
 Antwerp,2600,Flanders,APARTMENT,APARTMENT,245000,,residential_sale,2,,None,0,0,1,7,0,,100,,,0,None
 Jumet,6040,Wallonie,HOUSE,HOUSE,79000,,residential_sale,3,,None,0,0,1,17,1,121,183,,,0,None
@@ -10280,7 +10280,7 @@ Nieuwpoort,8620,Flanders,APARTMENT,APARTMENT,279000,,residential_sale,2,,None,0,
 Lier,2500,Flanders,HOUSE,HOUSE,285000,,residential_sale,2,,None,0,0,0,,1,,130,,,0,None
 Roeselare,8800,Flanders,HOUSE,HOUSE,375000,1996,residential_sale,3,36,0,0,0,1,,1,,140,539,,0,AS_NEW
 Torhout,8820,Flanders,HOUSE,HOUSE,575000,,residential_sale,4,,None,0,0,1,,1,,377,,,0,None
-guardamar del segura,03140,,APARTMENT,APARTMENT,249000,,residential_sale,2,,None,0,0,1,,0,,78,,,1,None
+guardamar del segura,3140,,APARTMENT,APARTMENT,249000,,residential_sale,2,,None,0,0,1,,0,,78,,,1,None
 St-Eloois-Winkel,8880,Flanders,HOUSE,HOUSE,284000,1965,residential_sale,3,36,1,0,0,1,40,1,125,155,240,2,0,AS_NEW
 Sint-Idesbald,8670,Flanders,HOUSE,HOUSE,375000,,residential_sale,3,,None,0,0,0,,0,,96,,,0,None
 Oostende,8400,Flanders,APARTMENT,APARTMENT,245000,,residential_sale,2,,None,0,0,1,,0,,85,,,0,None
