@@ -20,7 +20,7 @@ All code and analysis inside data-analyssi-immo_eliza.ipynb
 
 ### Dataset cleaning
 - Removed variables with very high percentage of empty values.
-- Removes rows with empty values
+- Removes rows with empty values.
 - Stripped spaces from string values.
 - Stripped letters from postal code variable.
 - Removed postal codes with more than 4 digits (not belonging to Belgium).
