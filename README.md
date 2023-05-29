@@ -5,27 +5,28 @@ Perform data cleaning and identify/analyze inputs correlated to price.
 
 
 ## Installation
-Pandas
+- Pandas
 
-numpy
+- numpy
 
-Matplotlib
+- Matplotlib
 
-Seaborn
+- Seaborn
 
-Scipy
+- Scipy
 
 ## Usage
 Environment: Jupiter Notebook (python 3.11).
 
-All code and analysis inside Name_of_Notebook.ipynb
+All code and analysis inside data-analyssi-immo_eliza.ipynb
 
-Pimp up the README file:
+## Procedure
+
+### Dataset cleaning
+- Removed variables with very high percentage of empty values.
+- Removes rows with empty values
+- Stripped spaces from string values.
+- Stripped letters from postal code variable.
+-  
 
 
-
-
-(Visuals)
-(Contributors)
-(Timeline)
-(Personal situation)
