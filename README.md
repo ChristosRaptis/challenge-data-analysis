@@ -40,14 +40,14 @@ All code and analysis inside data-analysis-immo_eliza.ipynb
 - Plotted mean, median and price per square meter for Belgium, Flanders, Wallonia and Brussels properties.
 
 ### Conclusions
-From our undserstanding of the analysis, we surmised that the variables that affect property price the most are:
+From our understanding of the analysis, we surmised that the variables that affect property price the most are:
 - Habitable surface
 - Number of rooms
 - Presence of swimming pool
 - Presence of terrace
 - Presence of garden
 
-We also noted that the Brussels region, although very small in comparison to the other two regions, has a sizeble share 
+We also noted that the Brussels region, although very small in comparison to the other two regions, has a sizeable share 
 of the real estate market.
 
 
