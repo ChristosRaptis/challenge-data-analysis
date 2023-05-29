@@ -27,7 +27,7 @@ All code and analysis inside data-analyssi-immo_eliza.ipynb
 - Removed duplicate values.
 
 ### Data Analysis
-- Calculated correlation between property price and the other varaiables.
+- Calculated correlation between property price and the other variables.
 - Removed "type_of_sale" and "has_open_fire" variables due to negative correlation with price.
 - Plotted correlation between price and other variables.
 - Plotted correlation heatmap to display correlations between all variables.
@@ -37,10 +37,10 @@ All code and analysis inside data-analyssi-immo_eliza.ipynb
 - Filtered and removed outliers using the IQR method.
 - Removed some outlier values on the lower end of price and habitable surface which were missed by the IQR method.
 - Plotted a histogram of number of properties over surface.
-- Plotted mean, median and price per square meter for Belgium, Flanders, Wallonia and Brussels.
+- Plotted mean, median and price per square meter for Belgium, Flanders, Wallonia and Brussels properties.
 
 ### Conclusions
-From our undserstanding of tha analysis, we surmised that the variables that affect property price the most are:
+From our undserstanding of the analysis, we surmised that the variables that affect property price the most are:
 - Habitable surface
 - Number of rooms
 - Presence of swimming pool
