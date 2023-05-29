@@ -14,7 +14,7 @@ Perform data cleaning and identify/analyze inputs correlated to property price i
 ## Usage
 Environment: Jupiter Notebook (python 3.11).
 
-All code and analysis inside data-analyssi-immo_eliza.ipynb
+All code and analysis inside data-analysis-immo_eliza.ipynb
 
 ## Procedure
 
